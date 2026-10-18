@@ -177,22 +177,26 @@ For any other session type, apply the same rubric categories while adjusting the
 
 ## Blind Scoring (Required Before Each Report)
 
-Scores of record come from a blind review. A blind reviewer has no access to earlier scores, the rubric report, the READMEs, notes files, or the repository's history.
+Scores of record come from independent blind reviews. A blind reviewer has no access to earlier scores, the rubric report, the READMEs, notes files, or the repository's history.
 
 Inputs (and only these):
 - The rubric tier wording: [tools/scoring/Rubric-Tiers.md](Rubric-Tiers.md)
-- The proposal Markdown file
-- The Presentation Outline PDF uploaded for that proposal
+- Each proposal's Markdown file, and its Presentation Outline PDF
+- Nothing else
 
 Procedure:
-1. Start a fresh reviewer with only the inputs above. Where possible, use a different model from the one that drafted the proposal.
-2. For each of the seven criteria, ask for the matched tier, up to three direct quotes that support it, and one or two sentences on what keeps the score from the next tier up. Also ask for the total and a list of anything that cannot be judged from the text.
-3. Record the blind scores in the Rubric Score Report as the scores of record. Record the reviewer's model and date.
-4. Compare the blind scores with the author's own scoring. Where they differ, the blind score stands unless the author points to a passage the reviewer missed. The report notes each disagreement.
-5. Judge named resources by the proposal's description of them. Do not raise a score because of materials that are not in the proposal, or because they will be built later.
-6. Score both proposals in a project in one reviewer session, so that criteria are counted the same way. Record the review date in the report. If a criterion's count differs between proposals, note it in the report.
+1. **Pin the round to a commit.** Record the commit hash being scored. Reviewers read files from that commit (for example, with `git show <commit>:<path>`), not from the working tree, so later edits cannot change the input.
+2. **Run the structure check first.** Run `tools/validation/check_submission.py` on both proposals and record the result. A round is invalid if a required section is missing from either proposal; fix it and start a new round.
+3. **Use three independent reviewers:** one Opus and two Sonnet. Each reviewer is a fresh session that scores both proposals in that one session, using the same inputs and the same counting rules. No reviewer sees another reviewer's scores.
+4. **Ask each reviewer for:** the matched tier for each of the seven criteria, up to three direct quotes that support it, one or two sentences on what keeps it from the next tier up, the total, and a list of anything that cannot be judged from the text.
+5. **Save every raw output verbatim** under `tools/scoring/rounds/<commit>/`, one file per reviewer. The report is generated from these files, not typed from memory.
+6. **Set the score of record per criterion to the median** of the three reviewers. The median of three is the middle score.
+7. **Reconcile only large disagreements.** If reviewers differ by two or more tiers on a criterion, send that criterion to Opus with the three quoted passages and the three scores. Opus judges which passage supports which tier and explains its reasoning. It does not average, and it does not rescore the whole proposal.
+8. **Verify the record.** Every quoted passage must appear verbatim in the cited file at the recorded commit, and each total must equal the sum of its criteria. A human reviewer spot-checks a sample of quotes and totals.
+9. Judge named resources by the proposal's description of them. Do not raise a score because of materials that are not in the proposal, or because they will be built later.
+10. Record the round's commit, date, reviewers and models, and any reconciliations in the Rubric Score Report.
 
-Why: a fresh reader cannot anchor on earlier scores or on unfinished materials. In the first round, the author's scores were higher than the blind scores for Standards and Pedagogy, and the author had counted resources that were not yet written.
+Why: a fresh reader cannot anchor on earlier scores or on unfinished materials, and three independent readers reduce the effect of any one reader's error. A single reviewer missed a missing section in round four, so the structure check comes first. Reviewers from the same model family can share blind spots, so the human review is the independent check of last resort.
 
 ## Suggested Scoring Template
 
