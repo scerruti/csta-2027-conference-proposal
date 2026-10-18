@@ -15,7 +15,7 @@ Participants will:
 - Explain why score-band exports and prerequisite analysis can reveal causes that averages do not show.
 - Describe how benchmark comparisons help confirm where a gap is real.
 - Outline the Data Wise steps for turning AP results into an action plan with formative checks.
-- Plan a first use of the take-home guide with their own AP data.
+- Describe how the take-home guide moves from analyzing their own AP data to an action plan.
 
 ## Educational Basis
 
