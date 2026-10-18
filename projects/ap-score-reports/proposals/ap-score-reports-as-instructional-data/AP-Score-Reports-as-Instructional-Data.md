@@ -6,7 +6,7 @@ Session (1 hour)
 
 ## Abstract
 
-AP Computer Science score reports offer valuable benchmarks, but turning them into instructional decisions takes a repeatable process. This 60-minute guided session lets teachers practice one in pairs or small groups. Each group includes at least one member with access to their own College Board Instructional Planning Report data. Working through the Data Deep Dive worksheet, groups prepare score-band exports, compare results against benchmarks, diagnose likely gaps using the CSA and CSP Content & Skills Matrices and prerequisite dependencies, and draft an action plan. Groups finish by designing formative assessments to check whether the plan works across the next school year. The workflow follows Data Wise (Steps 2, 4, 6, and 7). Participants also learn about a free, privacy-focused browser tool that aggregates reports locally without uploading student information, so data stays on each participant's laptop. This session aligns with CSTA Teacher Standards 4f (plan instruction to foster student understanding), 4g (inform instruction through assessment), and 5f (guide students' use of feedback). It stands alone, and the companion mini-session explains the reasoning behind the process.
+AP Computer Science score reports offer valuable benchmarks, but turning them into instructional decisions takes a repeatable process. This 60-minute guided session lets teachers practice one in pairs or small groups. Each group includes at least one member with access to their own College Board Instructional Planning Report data. Members without data support the group and take home a template for their own. Working through the Data Deep Dive worksheet, groups prepare score-band exports, compare results against benchmarks, diagnose likely gaps using the CSA and CSP Content & Skills Matrices and prerequisite dependencies, and draft an action plan. Groups finish by designing formative assessments to check whether the plan works across the next school year. The workflow follows Data Wise (Steps 2, 4, 6, and 7). Participants also learn about a free, privacy-focused browser tool that aggregates reports locally without uploading student information, so data stays on each participant's laptop. This session aligns with CSTA Teacher Standards 4f (plan instruction to foster student understanding), 4g (inform instruction through assessment), and 5f (guide students' use of feedback). It stands alone, and the companion mini-session explains the reasoning behind the process.
 
 ## Learning Goals
 
@@ -16,7 +16,7 @@ Participants will:
 - Diagnose likely root causes with the CSA or CSP Content & Skills Matrices and prerequisite dependency checks.
 - Build an action plan that connects a targeted intervention to AP Classroom resources.
 - Design formative checkpoints that show whether the plan is working across the next school year.
-- Apply the process collaboratively with a partner who holds College Board data.
+- Apply the process collaboratively in groups, with and without College Board data.
 
 ## Educational Basis
 
@@ -40,7 +40,7 @@ This session is grounded in four steps of the Data Wise Improvement Process (Har
 - Form pairs or small groups, with one member who has College Board IPR access in each group.
 - Agree on norms: data stays on the laptop, and no student names leave the group.
 - The data-holder logs in to the College Board AP Scores website and confirms the score-band data is available.
-- Engagement: groups assign roles (data owner, recorder, facilitator).
+- Engagement: groups assign roles (data owner, recorder, facilitator, supporter). Participants without data take the supporter role.
 
 ### 0:05-0:11 | Step 2: Build Assessment Literacy
 
@@ -53,21 +53,30 @@ This session is grounded in four steps of the Data Wise Improvement Process (Har
 - Circle four low-performing cells on the Data Deep Dive worksheet (CSA or CSP matrix).
 - Use the Concept Dependency Checks to test whether a prerequisite explains a cluster of weak cells.
 - Engagement: each group names one unexpected pattern and marks the skill it believes is the root cause.
+- Discussion: Which part of your own AP data surprised you, and what would you need to check before believing it? Where did the prerequisite check change your view of the root cause?
 
-### 0:31-0:43 | Step 6: Develop Action Plan
+### 0:31-0:33 | Regroup by Action Area
+
+- Groups re-form around the action area each one chose in Step 4.
+- Engagement: members share the evidence behind their chosen area.
+
+### 0:33-0:43 | Step 6: Develop Action Plan
 
 - Complete the Action Plan section: choose one targeted intervention and connect it to AP Classroom resources.
 - Engagement: each group shares its intervention and the reason for it.
+- Discussion: Why did your group choose this intervention over the others you considered?
 
 ### 0:43-0:53 | Step 7: Plan a Formative Assessment
 
 - Build one formative assessment from the AP Classroom question bank, selecting questions tagged to the action area's content and skill. Define the indicator it will measure.
 - Engagement: groups check each other's indicators for measurability.
+- Discussion: What evidence would tell you by winter that the plan is working?
 
 ### 0:53-1:00 | Wrap-up and Resources
 
-- Resources: Data Deep Dive worksheet with glossary, browser tool, and score-band export how-to.
-- Discussion: what will you change in your next AP cycle?
+- Resources: Data Deep Dive worksheet with glossary, browser tool, and score-band export guide.
+- Every participant takes home the action-plan template.
+- Discussion: What would you need from your department to run this cycle with your own students?
 
 ## Discussion Questions
 
@@ -79,16 +88,7 @@ This session is grounded in four steps of the Data Wise Improvement Process (Har
 
 ## Participant Outcomes
 
-Participants leave with an action plan and formative checkpoints for next year, built from AP data in their group. Tangible: the Data Deep Dive worksheet, a free privacy-focused browser tool, and a score-band export guide. Intangible: confidence to diagnose gaps and discuss data with colleagues.
-
-## Participant Resources
-
-- **Data Deep Dive worksheet:** the CSA and CSP Content & Skills Matrices, Concept Dependency Checks, and an Action Plan section.
-- **Worksheet glossary:** one page defining score band, benchmark, test form, and prerequisite dependency, with notes on the terms most often confused.
-- **Score-band export guide:** step-by-step instructions for setting up a data slice and exporting from the College Board AP Scores website, importing into the browser tool, and handling a failed export.
-- **Browser tool:** free and privacy-focused. It aggregates reports locally and never uploads student information.
-
-Attendees take home all four resources, so they can repeat the process with their own data.
+Participants leave with a group action plan, a formative assessment for one action area, and a template for their own data. Tangible: the Data Deep Dive worksheet, a free privacy-focused browser tool, and a score-band export guide. Intangible: confidence to diagnose gaps with colleagues.
 
 ## Related Links
 
