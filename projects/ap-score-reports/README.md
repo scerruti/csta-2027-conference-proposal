@@ -41,13 +41,21 @@ Both proposals are built from this process. The mini-session is the why, and the
 
 **Audience:** AP CSA and AP CSP teachers who want to use a previous year's data to guide future instruction. The process is the same for both courses; the artifacts are customized to each course's learning objectives. The process, though not the tools, may apply to other domains.
 
-**Steps:**
+**Stages and steps:** the eight steps are grouped into three stages, so the process is easier to take in. The stages follow the move from data-aware to data-driven.
+
+*Notice:* see where students struggled and turn it into a question.
 
 1. **Look:** review the Subject Score Roster: score distribution, mean, and percentage of scores 3 or higher, by section and against state and global peers.
 2. **Ask:** form a question from that look. Examples: "How do I get more students to pass?" "How could I get my period 4 students to earn a 5?"
+
+*Investigate:* narrow the data and, with colleagues, form a hypothesis about the cause.
+
 3. **Slice and download:** filter the Instructional Planning Report by score band and/or section to match the question, then download it. One download contains all test forms. Example: score 2 only, since 3 is passing and 1 probably means no foundation.
 4. **Combine:** the browser tool aggregates the forms, which College Board does not do, into two tables: units (or big ideas) and practices. The aggregation is "good enough" for decisions, not statistically exact.
 5. **Hypothesize (collaboratively):** pick a focus area from each table and find the intersection on the Data Deep Dive worksheet's matrix. The test cannot show which content and skill combination caused the problem, so the intersection is a hypothesis. With other instructors, take the matrix selections in priority order, most foundational first. For each, first state what the data shows (colleagues ask clarifying questions only), then interpret it together: how I taught it, what worked or was different, how other curricula teach it. The group names a hypothesis and the teacher justifies keeping or dropping it. The top one or two hypotheses drive the plan.
+
+*Respond:* change what is taught and collect data to check it.
+
 6. **Plan:** complete the worksheet's action plan. The specific change depends on the teacher's adopted curriculum; the point is to give the teacher something concrete to change.
 7. **Test:** build AP Classroom formative assessments by filtering the question bank by learning objective, skill, or content area for the focus area. Give them before and/or after the change to collect additional data.
 8. **Adjust:** reteach or spiral the content as the results indicate, and account for the results in future planning.
@@ -58,6 +66,14 @@ Both proposals are built from this process. The mini-session is the why, and the
 - Improving AP scores as a goal. Too many outside influences are beyond the teacher's control.
 
 **Borrowed ideas:** step 5's collaborative review and its separation of evidence from interpretation draw on ideas found in the Data Wise Improvement Process (examining instruction, observing before inferring). The proposals use the ideas, not the Data Wise structure.
+
+**Data Wise guardrails:** the process was defined from the workshop first, and it turned out to parallel the Inquire and Act phases of Data Wise (steps 3–8). An earlier draft used Data Wise as the structure, and it took over the proposals. Data Wise is supporting evidence only:
+
+- **Allowed:** one or two sentences in each proposal's Educational Basis saying the process parallels the Inquire and Act phases, plus a reference.
+- **Not in the outline:** segments are named for our stages and steps, never for Data Wise steps or step numbers.
+- **Not in the vocabulary:** use "question," "hypothesis," and "formative assessment," not "priority question," "learner-centered problem," or "indicator."
+- **Not in the standards mapping, learning goals, or participant resources.**
+- **Not as the structure:** the proposals do not claim to follow Data Wise, only that the process parallels part of it.
 
 **Sources:** in `resources/`: the workshop slides, the Data Deep Dive worksheet, College Board's Subject Score Roster and Instructional Planning Report overviews, and a sample CSP Instructional Planning Report. Also the browser tool's documentation.
 
