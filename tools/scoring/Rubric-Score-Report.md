@@ -18,7 +18,6 @@ The form's limits come from the [Call for Proposals planning sheet](../../confer
 
 Per the scoring instructions, these compliance failures are recorded separately from rubric quality. The scores below describe the drafts as they stand.
 
-The earlier word-count check (`check_word_count.py`) measures words. The form limits are in characters, so it no longer answers the compliance question.
 
 The template requirement is confirmed: the Presentation Outline template is required, and neither draft uses it yet.
 

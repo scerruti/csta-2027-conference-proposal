@@ -40,7 +40,7 @@ It checks the limits from the CSTA planning sheet:
 
 It also prints manual checks for the website form and the outline PDF. The script can't see those, so check them yourself.
 
-`check_word_count.py` counts words, which the form does not use. Use `check_submission.py` for form limits.
+Limits are measured in characters, as the form measures them, so word counts don't apply.
 
 ## Add a proposal
 

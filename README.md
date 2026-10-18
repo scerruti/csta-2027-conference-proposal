@@ -24,8 +24,7 @@ This repository is organized by shared project infrastructure at the root and pr
 │   │   ├── Rubric-Score-Report.md
 │   │   └── Scoring-Instructions.md
 │   └── validation/
-│       ├── check_submission.py
-│       └── check_word_count.py
+│       └── check_submission.py
 └── ...
 ```
 
@@ -60,7 +59,6 @@ Scores are from the [rubric score report](tools/scoring/Rubric-Score-Report.md).
 - [Rubric score report](tools/scoring/Rubric-Score-Report.md)
 - [Scoring instructions](tools/scoring/Scoring-Instructions.md)
 - [Submission check script](tools/validation/check_submission.py)
-- [Word-count script](tools/validation/check_word_count.py) (checks words; the form uses characters, so use the submission check for form limits)
 
 New to the repo? Start with [CONTRIBUTING.md](CONTRIBUTING.md).
 
