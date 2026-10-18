@@ -62,6 +62,8 @@ Both proposals are built from this process. The mini-session is the why, and the
 7. **Test:** build AP Classroom formative assessments by filtering the question bank by learning objective, skill, or content area for the focus area. Give them before and/or after the change to collect additional data.
 8. **Adjust:** reteach or spiral the content as the results indicate, and account for the results in future planning.
 
+**Sustaining the cycle:** the process works best with ongoing collaboration, meaning colleagues who revisit the plan and the formative results through the year. The pedagogy calls for the practice, not a particular organization: a department PLC, a CTE community of practice, a CSTA chapter, or an online AP CS group can all host it. Marsh (2012) reports that single training sessions alone did not lead to data use, while sustained support did better, so the proposals recommend ongoing collaboration as grounded in research, not as established practice. The cycle's dates (results in July, plans before school starts, formative results during the year) give a group natural reasons to meet. The proposals describe this generically, never naming a specific group, to keep presenters anonymous and to avoid sounding promotional. The sessions seed it in the room: partners trade contact information and agree to check in when formative results come back.
+
 **Out of scope:**
 
 - Score alignment (missing or misassigned student scores). Assumed correct.

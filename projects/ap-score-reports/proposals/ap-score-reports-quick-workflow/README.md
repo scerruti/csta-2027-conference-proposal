@@ -22,6 +22,20 @@ The breakout is the hands-on "how" for the same process. Each session stands alo
 - "How would you use this?" connects the stage to the attendee's own classroom.
 - "Why do you think this works?" has attendees reason about the motivation instead of only hearing it.
 
+**Format:** in each stage, the "use" prompt runs as a Think-Pair-Share (brief silent thinking, then pairs, then a quick share). The "why" prompt is a quick whole-room question. Pairs get everyone talking in a 20-minute slot; the whole-room question keeps the reasoning visible without taking the time of a second pair discussion.
+
+**Prompts:**
+
+| Segment | "Use" (Think-Pair-Share) | "Why" (whole room) | Point to draw out |
+|---|---|---|---|
+| Opening | "Are you data-driven?" (show of hands), then the definition | — | Most attendees are data-aware by the definition. |
+| Notice | "Think about last year's results. What question would you want them to answer?" | "Why start with a question instead of opening the detailed report?" | The question decides which slice to look at. |
+| Investigate | "Which slice would answer your question: which score band, which section?" | "The report shows content and skills separately. Why treat the place where they meet as a hypothesis rather than an answer?" | The test cannot show the cause; experience fills it in and later data checks it. |
+| Respond | "What's one thing in your curriculum you'd change, and when in the year would you check on it?" | "Why give a formative assessment instead of waiting for next year's scores?" | Scores arrive too late; the assessment tests the hypothesis while there is time to respond. |
+| Close | "By our definition, were you data-driven? What would it take to be?" | — | Returns to the opening question. Then partners trade contact information and agree to check in when formative results come back. |
+
+**Close, presenter's story (session only, not in the proposal):** the presenter's experience as a guest in a district AP CS PLC, and the wish that every teacher had that kind of community. It illustrates ongoing collaboration as the way to sustain the cycle. Names stay out of the proposal and this repository.
+
 **Timing:** attendees arrive data-aware, so Notice is brief and the time goes to Investigate and Respond.
 
 | Time | Segment |
@@ -34,8 +48,8 @@ The breakout is the hands-on "how" for the same process. Each session stands alo
 
 ## Open Questions
 
-- The specific discussion prompts for each stage.
-- The pedagogy sources for the Educational Basis. Marsh (2012) is the leading candidate but has not been read in the original yet.
+- Think-Pair-Share as a second pedagogical practice: Lyman, F. (1981). The responsive classroom discussion: The inclusion of all students. In A. S. Anderson (Ed.), *Mainstreaming Digest* (pp. 109–113). University of Maryland. Confirmed as the origin by several university teaching centers (one dates it 1982); the original has not been read, so paraphrase only.
+- Whether each stage's time fits a Think-Pair-Share plus a whole-room question, especially Notice at 4 minutes.
 
 ## Included Files
 
