@@ -91,6 +91,6 @@ Scores follow the [scoring instructions](tools/scoring/Scoring-Instructions.md) 
 
 These are tracked in the [rubric score report](tools/scoring/Rubric-Score-Report.md):
 
-- Both proposals need the Presentation Outline template and the fixes listed under each proposal's failed checks.
-- The score-band export how-to is named as a resource but not yet written.
+- Both proposals have draft Presentation Outline PDFs (`Presentation-Outline-DRAFT.pdf`) in their folders. Upload the final versions after review.
+- Resources named in the proposals but not yet written: the score-band export how-to, the worksheet glossary, and the mini-session take-home guide.
 - The CSTA PDFs in `conference/` are included in this public repo. Confirm with CSTA that they can be shared publicly before you add more CSTA material.

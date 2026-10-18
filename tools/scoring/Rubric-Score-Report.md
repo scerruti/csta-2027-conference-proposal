@@ -2,97 +2,93 @@
 
 ## Scope
 
-This report evaluates the current proposal drafts against the CSTA 2027 proposal rubric:
+This report scores the current drafts of both proposals against the CSTA 2027 Reviewers Rubric. The two proposals are designed to run in series:
 
-- [AP Score Reports as Instructional Data](../../projects/ap-score-reports/proposals/ap-score-reports-as-instructional-data/AP-Score-Reports-as-Instructional-Data.md) (Breakout, 60 minutes)
-- [AP Scores to Instructional Action: A Quick Workflow](../../projects/ap-score-reports/proposals/ap-score-reports-quick-workflow/AP-Score-Reports-Quick-Workflow.md) (Mini-session, 20 minutes)
+- [AP Score Reports as Instructional Data](../../projects/ap-score-reports/proposals/ap-score-reports-as-instructional-data/AP-Score-Reports-as-Instructional-Data.md): Session (1 hour). The guided, partner-based application of the process.
+- [AP Scores to Instructional Action: A Quick Workflow](../../projects/ap-score-reports/proposals/ap-score-reports-quick-workflow/AP-Score-Reports-Quick-Workflow.md): Mini-Session (20 minutes). The reasoning behind the process, with a take-home guide.
 
-Each score is tied to the rubric tier wording in the CSTA 2027 Reviewers Rubric PDF. Where the PDF text extracted poorly, the tier is marked for checking.
+Each score is tied to the rubric tier wording. Scores describe the drafts as they stand, including the resources they name but that do not exist yet.
 
 ## Compliance
 
-The form's limits come from the [Call for Proposals planning sheet](../../conference/CSTA%202027%20Call%20for%20Proposals%20Planning%20Sheet.pdf). Both drafts were checked with `tools/validation/check_submission.py`. Both fail:
+Both drafts pass the submission check (`tools/validation/check_submission.py`) on every automated item. The remaining items are manual:
 
-- **Breakout:** the session type is "Breakout Session (60 minutes)," but the form's name is "Session (1 hour)." The abstract is 1,820 characters (limit 1,500). Participant Outcomes is 338 characters (takeaways field, 300).
-- **Quick workflow:** there is no Learning Goals section, which the Presentation Outline template requires. Participant Outcomes is 304 characters (takeaways field, 300).
+- Presentation Outline PDFs have been built from the template layout for both proposals (`Presentation-Outline-DRAFT.pdf` in each proposal folder). The outline content is approved, but the PDFs are drafts until uploaded.
+- Website form fields (grade level, topic, standards selection, equity question, presenter details) are to be entered by hand.
 
-Per the scoring instructions, these compliance failures are recorded separately from rubric quality. The scores below describe the drafts as they stand.
-
-
-The template requirement is confirmed: the Presentation Outline template is required, and neither draft uses it yet.
+Both proposals link to the Data Wise article and, in the breakout, to the CSTA submission page. Neither link identifies the presenter.
 
 ## Overall Summary
 
 | Proposal | Score | Summary |
 |---|---:|---|
-| AP Score Reports as Instructional Data | 28/35 | Strong, specific workflow with named standards indicators and a named educational basis. Held back by the missing Presentation Outline template, the abstract and takeaways length failures, and reliance on one framework. |
-| AP Scores to Instructional Action: A Quick Workflow | 26/35 | Clear, focused, and relevant. Shorter in-session practice and no hands-on diagnosis lower the preparedness and recommendation scores. |
+| AP Score Reports as Instructional Data | 29/35 | Clear guided design with a 60-minute outline, a complete template, and named standards indicators. Held back by materials it names but has not yet built, and a single framework for pedagogy. |
+| AP Scores to Instructional Action: A Quick Workflow | 26/35 | Focused on the why, with a complete template and clear discussion. Its only tangible resource, the take-home guide, does not exist yet, which lowers takeaways and preparedness. |
 
 ## Review: AP Score Reports as Instructional Data
 
 | Criterion | Score | Notes |
 |---|---:|---|
-| CSTA Standards | 4/5 | Names Standard 4, indicator 4g (Inform instruction through assessment), and Standard 5, indicator 5f (Guide students' use of feedback). Relevant, but the proposal addresses them in one sentence rather than throughout the session. |
-| Content | 4/5 | Learning goals, activities timed to 60 minutes, and discussion questions are present, and the activities fit the session type. The template is not used, which is the one missing characteristic, so the score stays at 4 rather than 5. |
-| Educational Best Practices / Pedagogy | 4/5 | Three Data Wise steps are named and cited (Steps 2, 4, and 6). All three come from one framework, so a reviewer could count them as one practice. A 5 would need three practices that stand apart from each other. |
-| Engaging and Relevance | 4/5 | Directly relevant to AP CS teachers, and the grade-level fit is clear. Practical rather than especially innovative. |
-| Takeaways | 4/5 | Tangible resources are named: the Data Deep Dive worksheet (including the CSA and CSP matrices), the browser tool, and a score-band export how-to. The how-to does not exist yet, so the 5 tier is not met until it is written. |
-| Attendee Preparedness | 4/5 | Attendees leave with a process, a worksheet, and a tool. Application depends on the tool and the how-to being available. |
-| Overall Recommendation | 4/5 | Recommend acceptance with minor improvements. The 5 tier is reserved for the top 5% of submissions, which can't be confirmed from this review. |
+| CSTA Standards | 4/5 | Names Standard 4, indicator 4g, and Standard 5, indicator 5f. Both are addressed in the session: the data analysis and the formative plan. The 5 tier asks for thorough treatment throughout the session, and this is addressed in two blocks. |
+| Content | 5/5 | Uses the template (the outline PDF follows its layout). Learning goals, discussion questions in each block, and timed activities are all present. Activities fit the 60-minute session type. Two activities depend on materials not yet built: the glossary and the export how-to. |
+| Educational Best Practices / Pedagogy | 4/5 | Four named Data Wise steps (2, 4, 6, and 7), cited to the Harvard GSE article. All four come from one framework, so a reviewer could count them as one practice. |
+| Engaging and Relevance | 4/5 | Directly relevant to AP CS teachers. The partner-based, data-driven design is practical. It is not especially innovative. |
+| Takeaways | 4/5 | Names tangible resources: the worksheet (which exists), the browser tool (which exists), and the export how-to (not yet written). Intangible takeaway is named. The 5 tier requires participant resources described in detail, which the how-to will provide. |
+| Attendee Preparedness | 4/5 | Attendees practice the process with real data from a partner. Preparedness depends on the partner having College Board access and on the how-to being available. |
+| Overall Recommendation | 4/5 | Recommend acceptance with minor improvements. Writing the glossary and the how-to would move Takeaways and Preparedness to 5. |
 
-### Final Score: 28/35
+### Final Score: 29/35
 
 ### Strengths
 
-- Names specific CSTA indicators (4g and 5f) rather than only the standards in general terms
-- Educational basis is explicit, with each Data Wise step tied to a session activity
-- Resources are concrete and named, not generic
-- Fits the 60-minute format with a full timed outline
+- Clear, guided structure with timed blocks that total 60 minutes
+- Standards indicators named precisely (4g and 5f)
+- Partner-based use of real College Board data, with privacy handled by a local tool
+- A formative-assessment plan for next year, tied to Data Wise Step 7
+- Discussion questions placed inside the blocks where they are used
 
 ### Improvements
 
-- Convert the outline to the CSTA 2027 Presentation Outline template. The 5 tier of Content requires it
-- Write the score-band export how-to, which is already listed as a resource
-- Strengthen the pedagogy basis with practices beyond one framework, if sources are available
-- Cut the abstract to 1,500 characters or fewer, and check it with `check_submission.py` after each edit
+- Write the export how-to and the worksheet glossary, since the outline depends on them
+- Define a fallback for groups where no member can access College Board data
+- If the review asks for more than one framework, add a second cited practice
 
 ## Review: AP Scores to Instructional Action: A Quick Workflow
 
 | Criterion | Score | Notes |
 |---|---:|---|
-| CSTA Standards | 4/5 | Names the same indicators as the breakout (4g and 5f). Relevant to the diagnostic and intervention steps. |
-| Content | 4/5 | Learning goals (Participant Outcomes), timed activities, and discussion questions are present, and the activities fit the session type. The template is not used, and the learning goals section is missing its required heading, so the score stays at 4 only while the other three characteristics hold. |
-| Educational Best Practices / Pedagogy | 4/5 | Same three Data Wise steps and citation as the breakout. Same caveat: one framework. |
-| Engaging and Relevance | 4/5 | Relevant, focused, and useful for teachers who need a quick process after AP results arrive. |
-| Takeaways | 4/5 | Same named resources as the breakout, with the same caveat that the score-band how-to is not written yet. |
-| Attendee Preparedness | 3/5 | The in-session practice is now a reflective question and a quick reaction, not a diagnosis. Attendees get the process and the worksheet, but the hands-on application moves to take-home work. |
-| Overall Recommendation | 3/5 | Acceptable. The workflow is sound, but the shorter in-session practice makes it less distinctive than the breakout. |
+| CSTA Standards | 4/5 | Names the same indicators as the breakout (4g and 5f), appropriate to the mini-session's reasoning focus. |
+| Content | 5/5 | Uses the template. Learning goals, discussion questions (the in-session question), and timed blocks are present. Activities fit a 20-minute session. |
+| Educational Best Practices / Pedagogy | 4/5 | Same four Data Wise steps and citation as the breakout. Same caveat: one framework. |
+| Engaging and Relevance | 4/5 | Relevant, focused, and useful for teachers who want a clear entry point after AP results arrive. |
+| Takeaways | 3/5 | The takeaways name a take-home guide and a browser tool. The guide does not exist yet, so the only participant resource described in detail is missing. |
+| Attendee Preparedness | 3/5 | Attendees leave understanding the reasoning and the process, but with no practice and no guide yet, they are less prepared to apply it. |
+| Overall Recommendation | 3/5 | Acceptable. Writing the take-home guide would move Takeaways and Preparedness to 4 and the overall recommendation to 4. |
 
 ### Final Score: 26/35
 
 ### Strengths
 
-- Focused on one clear process
-- Timing is realistic for 20 minutes
-- Educational basis and discussion questions match the breakout
-- Clear fit for teachers who want a fast entry point
+- Clear, focused argument for teachers who need a process, not only a tool
+- Reflective in-session question that fits a 20-minute format
+- Standards and Data Wise steps match the breakout, so the two sessions connect
+- Abstract and learning goals respect teachers' existing knowledge
 
 ### Improvements
 
-- Decide whether a short hands-on activity can fit the 20 minutes, which would strengthen attendee preparedness
-- Convert the outline to the CSTA 2027 Presentation Outline template, and add a Learning Goals section with its heading
-- Write the score-band export how-to
+- Write the take-home guide
+- Consider one short hands-on moment if the time allows, so attendees leave having tried a step
 
-## Changes From Previous Scores
+## Changes From the Previous Scoring
 
 | Proposal | Previous | Current | Main reasons |
 |---|---:|---:|---|
-| AP Score Reports as Instructional Data | 33 | 28 | Pedagogy was 4 with no named practices, now 4 with three cited steps. Content, Takeaways, and Overall were 5, now 4 because the template, the how-to, and the top 5% tier are not yet met. |
-| AP Scores to Instructional Action | 28 (reported as 30) | 26 | Arithmetic corrected first. Pedagogy and Standards are now supported by named indicators and steps. Attendee Preparedness and Overall dropped to 3 after the diagnostic example moved to take-home. |
+| AP Score Reports as Instructional Data | 28 | 29 | Content rises to 5 because the template is now used and the outline is complete. Takeaways and Preparedness stay at 4 because the how-to is unwritten. |
+| AP Scores to Instructional Action | 26 | 26 | Content rises to 5, which offsets lower scores for Takeaways and Preparedness (3 each, because the take-home guide is unwritten) and Overall (3). Net effect is zero. |
 
 ## Recommended Next Steps
 
-1. Convert both outlines to the CSTA 2027 Presentation Outline template, then rerun `check_submission.py`.
-2. Write the score-band export how-to.
-3. Decide whether the quick workflow needs a hands-on activity in place of the reflective question.
+1. Decide whether the glossary, the export how-to, and the take-home guide are built before selection. Both proposals name them.
+2. Enter the presenter details and form fields on the website.
+3. Upload the outline PDFs after final review.
 4. Keep the project and root README score tables in sync with this report after each rescore.
