@@ -2,24 +2,54 @@
 
 ## Purpose
 
-The 60-minute session. It is the "how": a guided, collaborative application of the process. Participants work in groups with their own College Board Instructional Planning Report data (or support the group if they have none), and they finish with an action plan and a formative assessment for one shared action area.
+The 60-minute session. It is the "how": participants work through the [process](../../README.md#the-process) hands-on with their own AP data, collaborating in groups, and leave with an action plan and an AP Classroom formative assessment.
 
 ## Relationship to the Mini-Session
 
-The mini-session gives the "why" and the process map. This session is designed to run after it, but it stands alone. Attendees who haven't attended the mini can still follow the session.
+The mini-session is the "why" for the same process. Each session stands alone, and the two may compete for acceptance.
 
 ## Status
 
-- Approved: abstract, learning goals, takeaways, discussion questions, timed outline, Standards Alignment, Participant Resources, and the outline PDF.
-- Scores of record: see the [rubric score report](../../../../tools/scoring/Rubric-Score-Report.md).
-- Standards: 4f and 4g. 5f was removed after round five, so the next review must score the 4g mapping, which now includes Step 7.
-- Open: the Step 4 block's timing and the pedagogy count (is formative assessment separate from Data Wise Step 7?).
+- The proposal and outline PDF in this folder are still the Data Wise version and will be rebuilt from the agreed design below.
+- Earlier scores rated the Data Wise version and no longer apply.
+
+## Agreed Design
+
+**Opening:** ask "Are you data-driven?" Most attendees will say yes. Then define it: the data identifies where to look, the teacher's experience forms a hypothesis, and new data tests it.
+
+**Timing:** attendees arrive data-aware, so Notice moves quickly, but Ask gets real time because the question decides the slice. The old 20-minute "Step 4" block was overloaded; its work is now spread across Investigate.
+
+| Time | Segment | Minutes |
+|---|---|---:|
+| 0:00–0:03 | Opening: "Are you data-driven?" Then the definition | 3 |
+| 0:03–0:05 | Notice: Look. Open the Subject Score Roster | 2 |
+| 0:05–0:10 | Notice: Ask. Write a question; a partner checks the report could answer it | 5 |
+| 0:10–0:18 | Investigate: Slice and download | 8 |
+| 0:18–0:23 | Investigate: Combine. Load the report into the tool, read the two tables, find the intersection on the matrix | 5 |
+| 0:23–0:26 | Sort by course, then by skill | 3 |
+| 0:26–0:38 | Investigate: Hypothesize in skill groups. Each person's top selection: evidence first, then experience | 12 |
+| 0:38–0:44 | Respond: Plan, in the same groups | 6 |
+| 0:44–0:56 | Respond: Test, in the same groups. Build and schedule the AP Classroom formative assessment | 12 |
+| 0:56–1:00 | Close: Adjust as where to go from here, trade contacts, push for ongoing collaboration | 4 |
+
+**Partner check at Ask:** partners confirm that each question can be answered by slicing the report. It catches unanswerable questions before the portal, and gives latecomers a way in.
+
+**Skill groups:** after Combine, every participant knows their focus practice. Signs mark each course's practices (CSA P1–P5, CSP P1–P5), and participants go to their sign. A crowded skill splits into groups of three or four; someone alone joins their second-weakest practice. Skills cut across units, so the group can compare how each member teaches the skill. Groups stay together through Plan and Test: they share question-bank searches for their common skill, and each person builds an assessment for their own content focus.
+
+**Hypothesize timing:** each person's top selection only. Four people at about three minutes each (one for the evidence, two for interpretation) fits the 12 minutes. Experienced teachers will spot their intersection quickly; collaboration carries newer teachers.
+
+**Participants without data:** they shadow their Ask partner through Look, Ask, Slice and download, and Combine, then choose a skill group by interest at the sort.
+
+**Adjust:** cannot happen in the room, because it depends on formative results from students during the year. The planning part (when to give the assessment, before and/or after the change, and what result would mean reteaching) is built into Test. The close presents Adjust as where attendees go from here, and makes the case for ongoing collaboration (see "Sustaining the cycle" in the [process](../../README.md#the-process)). Groups leave having traded contacts, a seed for continuing the work.
+
+## Resources to Build
+
+- Sample questions and anti-questions for Ask. An anti-question is too broad to slice ("Why did my students do badly?") or asks something the report cannot show ("Did my students learn recursion?").
+- Skill signs for the sort.
 
 ## Open Questions
 
-- Is the Data Wise language helpful or too formal for this audience?
-- Should the session show a single example, or compare two course contexts?
-- Should the final version say more about using score reports to support student growth across the year?
+- Whether 12 minutes is enough for Hypothesize when groups run larger than four.
 
 ## Included Files
 
