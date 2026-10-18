@@ -23,7 +23,7 @@ Both proposals link to the Data Wise article and, in the breakout, to the CSTA s
 | Proposal | Score | Summary |
 |---|---:|---|
 | AP Score Reports as Instructional Data | 29/35 | Clear guided design with a 60-minute outline, a complete template, and named standards indicators. Held back by materials it names but has not yet built, and a single framework for pedagogy. |
-| AP Scores to Instructional Action: A Quick Workflow | 26/35 | Focused on the why, with a complete template and clear discussion. Its only tangible resource, the take-home guide, does not exist yet, which lowers takeaways and preparedness. |
+| AP Scores to Instructional Action: A Quick Workflow | 28/35 | Focused on the why, with a complete template and clear discussion. Participant Resources describes the take-home guide and browser tool. Overall stays at 3 because the reasoning-first design gives attendees less practice than the breakout. |
 
 ## Review: AP Score Reports as Instructional Data
 
@@ -61,11 +61,11 @@ Both proposals link to the Data Wise article and, in the breakout, to the CSTA s
 | Content | 5/5 | Uses the template. Learning goals, discussion questions (the in-session question), and timed blocks are present. Activities fit a 20-minute session. |
 | Educational Best Practices / Pedagogy | 4/5 | Same four Data Wise steps and citation as the breakout. Same caveat: one framework. |
 | Engaging and Relevance | 4/5 | Relevant, focused, and useful for teachers who want a clear entry point after AP results arrive. |
-| Takeaways | 3/5 | The takeaways name a take-home guide and a browser tool. The guide does not exist yet, so the only participant resource described in detail is missing. |
-| Attendee Preparedness | 3/5 | Attendees leave understanding the reasoning and the process, but with no practice and no guide yet, they are less prepared to apply it. |
+| Takeaways | 4/5 | The takeaways name a take-home guide and a browser tool, and Participant Resources describes what the guide contains. The 5 tier also expects a more detailed resource set, such as a sample of the guide. |
+| Attendee Preparedness | 4/5 | Attendees leave understanding the reasoning and the process, with a checklist, a benchmark sheet, and a checkpoint template to use on their own data. Less in-session practice than the breakout keeps this below 5. |
 | Overall Recommendation | 3/5 | Acceptable. Writing the take-home guide would move Takeaways and Preparedness to 4 and the overall recommendation to 4. |
 
-### Final Score: 26/35
+### Final Score: 28/35
 
 ### Strengths
 
@@ -84,7 +84,7 @@ Both proposals link to the Data Wise article and, in the breakout, to the CSTA s
 | Proposal | Previous | Current | Main reasons |
 |---|---:|---:|---|
 | AP Score Reports as Instructional Data | 28 | 29 | Content rises to 5 because the template is now used and the outline is complete. Takeaways and Preparedness stay at 4 because the how-to is unwritten. |
-| AP Scores to Instructional Action | 26 | 26 | Content rises to 5, which offsets lower scores for Takeaways and Preparedness (3 each, because the take-home guide is unwritten) and Overall (3). Net effect is zero. |
+| AP Scores to Instructional Action | 26 | 28 | Content rises to 5. Takeaways and Attendee Preparedness rise to 4 once Participant Resources describes the take-home guide and its contents. Overall stays at 3. |
 
 ## Recommended Next Steps
 

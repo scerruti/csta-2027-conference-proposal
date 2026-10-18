@@ -75,6 +75,13 @@ This session is grounded in four steps of the Data Wise Improvement Process (Har
 
 Participants leave with an action plan and formative checkpoints for next year, built from AP data in their group. Tangible: the Data Deep Dive worksheet, a free privacy-focused browser tool, and a score-band export guide. Intangible: confidence to diagnose gaps and discuss data with colleagues.
 
+## Participant Resources
+
+- **Data Deep Dive worksheet:** the CSA and CSP Content & Skills Matrices, Concept Dependency Checks, and an Action Plan section.
+- **Worksheet glossary:** one page defining score band, benchmark, test form, and prerequisite dependency, with notes on the terms most often confused.
+- **Score-band export guide:** step-by-step instructions for setting up a data slice and exporting from the College Board AP Scores website, importing into the browser tool, and handling a failed export.
+- **Browser tool:** free and privacy-focused. It aggregates reports locally and never uploads student information.
+
 ## Related Links
 
 - CSTA Proposal Page: https://www.cvent.com/c/abstracts/c78be470-c876-4f75-b7d2-f1b78a70eca9

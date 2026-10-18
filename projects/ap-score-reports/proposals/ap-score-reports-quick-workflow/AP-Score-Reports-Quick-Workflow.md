@@ -76,6 +76,11 @@ Take-home prompts:
 - How can prerequisite concept analysis help us find the root cause of a student difficulty?
 - What is one classroom move you would make after this analysis?
 
+## Participant Resources
+
+- **Take-home guide:** a one-page map of the four Data Wise steps with the question each one answers, a score-band checklist, a benchmark comparison sheet, prerequisite questions drawn from the Content & Skills Matrix, and a formative-checkpoint template (indicator, measure, and date).
+- **Browser tool:** the same free, privacy-focused tool. It aggregates reports locally and never uploads student information. The companion 60-minute session offers guided practice with it.
+
 ## Related Links
 
 - Data Wise Improvement Process: Harvard Graduate School of Education, Ed magazine: https://www.gse.harvard.edu/ideas/ed-magazine/12/01/data-wise-process
