@@ -68,6 +68,7 @@ Both proposals are built from this process. The mini-session is the why, and the
 
 - Score alignment (missing or misassigned student scores). Assumed correct.
 - Improving AP scores as a goal. Too many outside influences are beyond the teacher's control.
+- Comparing two slices in the session. College Board's Instructional Planning Report overview recommends comparing, for example, the score-2 students with the score-3-or-higher students ("What did my 3s learn that my 2s did not?"). The sessions mention it as College Board's recommended practice for teachers to try on their own; doing it in the room would roughly double the time for Slice and download and Combine. The workshop did not compare slices.
 
 **Borrowed ideas:** step 5's collaborative review and its separation of evidence from interpretation draw on ideas found in the Data Wise Improvement Process (examining instruction, observing before inferring). The proposals use the ideas, not the Data Wise structure.
 
@@ -110,7 +111,7 @@ Both proposals are built from this process. The mini-session is the why, and the
 
 ## Open Questions
 
-- **Evaluate for inclusion: comparing two slices.** The workshop downloaded a single slice and did not compare slices. College Board's Instructional Planning Report overview suggests comparing the score-2 students with the score-3-or-higher students. The teacher's question would become: "What did my 3s learn that my 2s did not?"
+None at the project level. Each proposal's README lists its own open questions.
 
 ## Project Resources
 
