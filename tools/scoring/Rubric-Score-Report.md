@@ -63,15 +63,16 @@ Both proposals pass the submission check on every automated item. Manual items r
 
 ## Open Issues Before the Next Round
 
+- **Standards change after round five:** 5f was removed from both proposals, and 4g now covers Step 7 in the breakout and the formative-checks segment in the mini. Round five scored the 5f version, so the next review must score the new mapping.
 - **Pedagogy count:** is formative assessment a distinct practice, or part of Data Wise Step 7? If it is part of Data Wise, both proposals drop to two practices, and the pedagogy score drops to 4 for the breakout's Opus reviewer. This needs a decision.
-- **5f link:** every reviewer in every round called it a stretch. The wording or the mapping needs a decision.
 - **Step 4 timing:** the breakout's 20-minute block is still tight, and reviewers flagged it in every round.
 - **Mini hands-on gap:** Attendee Preparedness and Overall are 3 in both reviews.
 - **Cabo (2015):** the claim is scoped to a first Java course, and the paper is cited with the ASEE permalink. The reviewers note that the link to AP CSP is not established.
 
 ## Recommended Next Steps
 
-1. Decide the pedagogy count and the 5f mapping.
+1. Decide the pedagogy count. The 5f mapping was resolved by removing 5f.
 2. Shorten or restructure the breakout's Step 4 block.
 3. Add an in-session practice moment to the mini, or accept the lower Preparedness score.
-4. Confirm the Participant Resources section in the breakout with a human reviewer.
+4. Re-run the blind review on the 4f and 4g mapping.
+5. Confirm the Participant Resources section in the breakout with a human reviewer.

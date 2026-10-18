@@ -12,7 +12,8 @@ The mini-session gives the "why" and the process map. This session is designed t
 
 - Approved: abstract, learning goals, takeaways, discussion questions, timed outline, Standards Alignment, Participant Resources, and the outline PDF.
 - Scores of record: see the [rubric score report](../../../../tools/scoring/Rubric-Score-Report.md).
-- Open: the Step 4 block's timing, the 5f mapping, and the pedagogy count (is formative assessment separate from Data Wise Step 7?).
+- Standards: 4f and 4g. 5f was removed after round five, so the next review must score the 4g mapping, which now includes Step 7.
+- Open: the Step 4 block's timing and the pedagogy count (is formative assessment separate from Data Wise Step 7?).
 
 ## Open Questions
 

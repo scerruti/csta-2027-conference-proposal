@@ -12,7 +12,8 @@ The breakout gives the guided, hands-on "how" for the same process. This session
 
 - Approved: abstract, learning goals, takeaways, discussion questions, timed outline, Standards Alignment, Participant Resources, and the outline PDF.
 - Scores of record: see the [rubric score report](../../../../tools/scoring/Rubric-Score-Report.md).
-- Open: the 5f mapping, the pedagogy count (is formative assessment separate from Data Wise Step 7?), and the lack of in-session practice.
+- Standards: 4f and 4g. 5f was removed after round five, so the next review must score the 4g mapping, which now includes the formative-checks segment.
+- Open: the pedagogy count (is formative assessment separate from Data Wise Step 7?) and the lack of in-session practice.
 
 ## Open Questions
 
