@@ -2,3 +2,8 @@
 __pycache__/
 *.pyc
 quantifying-student-progress-through-bloom-s-taxonomy-cognitive-categories-in-computer-programming-courses.pdf
+
+# College Board files: copyrighted, download links in projects/ap-score-reports/resources/README.md
+projects/ap-score-reports/resources/ap-subject-score-roster-overview.pdf
+projects/ap-score-reports/resources/ap-instructional-planning-report-overview.pdf
+projects/ap-score-reports/resources/sample-ap-ipr-computer-science-principles.pdf
