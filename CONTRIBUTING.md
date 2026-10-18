@@ -76,9 +76,10 @@ The CSTA 2027 Presentation Outline template in `conference/` is required for eve
 
 Scores follow the [scoring instructions](tools/scoring/Scoring-Instructions.md) and the CSTA 2027 rubric in `conference/`. After a rescore:
 
-1. Update the proposal's entry in [the rubric score report](tools/scoring/Rubric-Score-Report.md).
-2. Update the score and submission-check columns in the project README and the root README.
-3. Record the compliance status separately from the rubric score, as the scoring instructions require.
+1. Get a blind review first: a fresh reviewer scores the proposal from the rubric tiers, the proposal, and its outline PDF only (see the [blind scoring procedure](tools/scoring/Scoring-Instructions.md#blind-scoring-required-before-each-report)).
+2. Update the proposal's entry in [the rubric score report](tools/scoring/Rubric-Score-Report.md) with the blind scores.
+3. Update the score and submission-check columns in the project README and the root README.
+4. Record the compliance status separately from the rubric score, as the scoring instructions require.
 
 ## Making changes
 

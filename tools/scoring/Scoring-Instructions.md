@@ -175,6 +175,25 @@ A poster should show:
 
 For any other session type, apply the same rubric categories while adjusting the expectations to the format. The key is to judge the proposal against what the format realistically allows, not against a longer or different session type.
 
+## Blind Scoring (Required Before Each Report)
+
+Scores of record come from a blind review. A blind reviewer has no access to earlier scores, the rubric report, the READMEs, notes files, or the repository's history.
+
+Inputs (and only these):
+- The rubric tier wording: [tools/scoring/Rubric-Tiers.md](Rubric-Tiers.md)
+- The proposal Markdown file
+- The Presentation Outline PDF uploaded for that proposal
+
+Procedure:
+1. Start a fresh reviewer with only the inputs above. Where possible, use a different model from the one that drafted the proposal.
+2. For each of the seven criteria, ask for the matched tier, up to three direct quotes that support it, and one or two sentences on what keeps the score from the next tier up. Also ask for the total and a list of anything that cannot be judged from the text.
+3. Record the blind scores in the Rubric Score Report as the scores of record. Record the reviewer's model and date.
+4. Compare the blind scores with the author's own scoring. Where they differ, the blind score stands unless the author points to a passage the reviewer missed. The report notes each disagreement.
+5. Judge named resources by the proposal's description of them. Do not raise a score because of materials that are not in the proposal, or because they will be built later.
+6. Apply the same reviewer to both proposals in a project so that criteria are counted the same way. If a criterion's count differs between proposals, note it in the report.
+
+Why: a fresh reader cannot anchor on earlier scores or on unfinished materials. In the first round, the author's scores were higher than the blind scores for Standards and Pedagogy, and the author had counted resources that were not yet written.
+
 ## Suggested Scoring Template
 
 Use this template for each proposal:
