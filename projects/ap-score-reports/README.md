@@ -96,6 +96,14 @@ Both proposals are built from this process. The mini-session is the why, and the
 - **Supports looking past averages:** every category matters, which is the reason to move from the roster's summary to slicing and examining individual categories.
 - **Limits:** one college, 62 students, Java only. It says nothing about CSP; for CSP, rely on the worksheet's dependency reasoning without claiming research behind it. The parallel between Cabo's understanding-versus-application gap and College Board's content-versus-skill split is our interpretation, not Cabo's claim.
 
+**Pedagogy basis: Black and Wiliam (1998).** Black, P., & Wiliam, D. (1998). Inside the black box: Raising standards through classroom assessment. *Phi Delta Kappan, 80*(2), 139–148. https://www.jstor.org/stable/20439383. Read in full from a public "Kappan Classic" reprint (Michigan Department of Education), which has its own pagination, so paraphrase only.
+
+- **Definition:** assessment becomes formative only when its evidence is actually used to adapt teaching to meet student needs. Giving the AP Classroom assessment is not enough; Adjust is what makes the Test step formative. This grounds the close's message that Adjust is where attendees go from here.
+- **Supports the why:** external standardized testing alone has not raised standards; improvement happens through classroom assessment. This parallels the workshop slides' point that the IPR is high-level and retrospective, while AP Classroom provides evidence during the year.
+- **Cautions:** do not cite the article's effect sizes (0.4–0.7); later reviews challenged them as too high. Black and Wiliam also warn that teachers' tests often imitate external tests and encourage superficial learning. AP Classroom questions are AP-style, so the proposals should note that the assessment tests a hypothesis about one skill rather than serving as a grade.
+
+**Practices by session:** the breakout rests on Marsh (data use as a cycle), Cabo (foundational concepts), and Black and Wiliam (formative assessment), plus collaboration through the partner check and skill groups. The mini rests on Marsh and Think-Pair-Share (Lyman, 1981), and Black and Wiliam supports its Respond "why" question.
+
 **Decided:** the worksheet's "circle exactly 4 cells" rule is dropped. It was a workshop artifact. Favoring earlier units stays.
 
 **Sources:** in `resources/`: the workshop slides, the Data Deep Dive worksheet, College Board's Subject Score Roster and Instructional Planning Report overviews, and a sample CSP Instructional Planning Report. Also the browser tool's documentation.
