@@ -14,11 +14,12 @@ This proposal aligns with CSTA Teacher Standards 4g (Instructional Design) and 5
 
 ## Educational Basis
 
-This session is grounded in three steps of the Data Wise Improvement Process (Harvard Graduate School of Education):
+This session is grounded in four steps of the Data Wise Improvement Process (Harvard Graduate School of Education):
 
 - Step 2, Build Assessment Literacy: participants learn to read score bands, benchmarks, and the effects of multiple test forms before drawing conclusions.
 - Step 4, Dig into Student Data: participants analyze score-band and benchmark data to locate specific patterns and misconceptions.
 - Step 6, Develop Action Plan: participants choose targeted interventions connected to AP Classroom resources.
+- Step 7, Plan to Assess Progress: participants define formative indicators that show whether the plan is working.
 
 ## Session Timed Outline
 
