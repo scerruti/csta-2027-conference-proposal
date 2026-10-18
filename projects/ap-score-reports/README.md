@@ -54,7 +54,7 @@ Both proposals are built from this process. The mini-session is the why, and the
 
 3. **Slice and download:** filter the Instructional Planning Report by score band and/or section to match the question, then download it. One download contains all test forms. Example: score 2 only, since 3 is passing and 1 probably means no foundation.
 4. **Combine:** the browser tool aggregates the forms, which College Board does not do, into two tables: units (or big ideas) and practices. The aggregation is "good enough" for decisions, not statistically exact.
-5. **Hypothesize (collaboratively):** pick a focus area from each table and find the intersection on the Data Deep Dive worksheet's matrix. The test cannot show which content and skill combination caused the problem, so the intersection is a hypothesis. With other instructors, take the matrix selections in priority order, most foundational first. For each, first state what the data shows (colleagues ask clarifying questions only), then interpret it together: how I taught it, what worked or was different, how other curricula teach it. The group names a hypothesis and the teacher justifies keeping or dropping it. The top one or two hypotheses drive the plan.
+5. **Hypothesize (collaboratively):** pick a focus area from each table and find the intersection on the Data Deep Dive worksheet's matrix. The test cannot show which content and skill combination caused the problem, so the intersection is a hypothesis. With other instructors, take the matrix selections in priority order, preferring earlier units because later units build on them. For each, first state what the data shows (colleagues ask clarifying questions only), then interpret it together: how I taught it, what worked or was different, how other curricula teach it. The group names a hypothesis and the teacher justifies keeping or dropping it. The top one or two hypotheses drive the plan.
 
 *Respond:* change what is taught and collect data to check it.
 
@@ -89,11 +89,19 @@ Both proposals are built from this process. The mini-session is the why, and the
 - **Supports the why:** educators most often lack support for moving from knowledge to action (leverage point 4), and Marsh calls for more attention there.
 - **Cautions:** a single training session alone did not lead to data use in the studies she reviewed, so the proposals should not claim one session changes practice; they should rest on the take-home resources and a process repeated each year. The evidence base is limited in quantity and quality and relies mostly on self-reports, so cite Marsh as a framework and review, not as proof of effect.
 
+**Pedagogy basis: Cabo (2015).** Cabo, C. (2015). Quantifying student progress through Bloom's taxonomy cognitive categories in computer programming courses. 2015 ASEE Annual Conference & Exposition, Seattle, WA. © 2015 American Society for Engineering Education. https://peer.asee.org/24632. Read in full (kept out of git).
+
+- **Findings:** in a first college Java course (62 students), adequate performance in every individual concept category, not just a good average, was needed to write viable programs. Performance in repetition, classes, assignment, and Java syntax predicted programming ability well. Conceptual understanding was necessary but not sufficient.
+- **Supports "prefer earlier units" for CSA:** foundational concepts predict later programming ability, and a gap in any one holds students back. Cabo did not study unit order, so say "foundational concepts predict later programming ability," not "research shows earlier units come first."
+- **Supports looking past averages:** every category matters, which is the reason to move from the roster's summary to slicing and examining individual categories.
+- **Limits:** one college, 62 students, Java only. It says nothing about CSP; for CSP, rely on the worksheet's dependency reasoning without claiming research behind it. The parallel between Cabo's understanding-versus-application gap and College Board's content-versus-skill split is our interpretation, not Cabo's claim.
+
+**Decided:** the worksheet's "circle exactly 4 cells" rule is dropped. It was a workshop artifact. Favoring earlier units stays.
+
 **Sources:** in `resources/`: the workshop slides, the Data Deep Dive worksheet, College Board's Subject Score Roster and Instructional Planning Report overviews, and a sample CSP Instructional Planning Report. Also the browser tool's documentation.
 
 ## Open Questions
 
-- **Rethink the four-cell rule.** "Circle exactly 4 cells" was a workshop convenience. The aim is to identify a likely root cause, not to reach a fixed count.
 - **Evaluate for inclusion: comparing two slices.** The workshop downloaded a single slice and did not compare slices. College Board's Instructional Planning Report overview suggests comparing the score-2 students with the score-3-or-higher students. The teacher's question would become: "What did my 3s learn that my 2s did not?"
 
 ## Project Resources
