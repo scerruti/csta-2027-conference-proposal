@@ -17,7 +17,7 @@ Both proposals pass the submission check (`tools/validation/check_submission.py`
 
 | Proposal | Score | Summary |
 |---|---:|---|
-| AP Score Reports as Instructional Data | 29/35 | Complete template, a clear guided design, and three named practices. Held back by the 20-minute Step 4 block, the weak 5f link, and no Participant Resources section for the template. |
+| AP Score Reports as Instructional Data | 29/35 | Complete template, a clear guided design, and three named practices. Held back by the 20-minute Step 4 block and the weak 5f link. The Participant Resources section was missing from the version scored in this round; it has since been restored. |
 | AP Scores to Instructional Action: A Quick Workflow | 25/35 | Complete template and three named practices. Held back by explanation-heavy delivery, no hands-on practice, and a narrow audience. |
 
 ## Review: AP Score Reports as Instructional Data
@@ -28,7 +28,7 @@ Both proposals pass the submission check (`tools/validation/check_submission.py`
 | Content | 4/5 | Template used, and the PDF matches the proposal. The 0:11–0:31 block asks for individual exports, imports, benchmark comparison, cell circling, a regroup, dependency checks, and two discussions in 20 minutes, which the reviewer doubted is achievable. |
 | Educational Best Practices / Pedagogy | 5/5 | Three distinct practices, each grounded: Data Wise, formative assessment (Black and Wiliam, 1998), and concept-level diagnosis (Cabo, 2015). The reviewer noted that formative assessment overlaps Data Wise Step 7. If it is folded into Data Wise, the count is two and the score is 4. |
 | Engaging and Relevance | 4/5 | Works with each participant's own report data, which is relevant. The audience is narrow, and Data Wise is an established method rather than a new one. The grade level is implied, not stated. |
-| Takeaways | 4/5 | Tangible and intangible takeaways are named. No Participant Resources section, so the handouts' contents are spread through the text. One intangible takeaway. |
+| Takeaways | 4/5 | Tangible and intangible takeaways are named. The Participant Resources section was missing from the version scored in this round and has since been restored. One intangible takeaway. |
 | Attendee Preparedness | 4/5 | Attendees draft an action plan and build a formative assessment from the question bank. Participants without data act as supporters, and the tight Step 4 may leave some plans unfinished. |
 | Overall Recommendation | 4/5 | Recommend (top 25%). |
 
@@ -38,7 +38,7 @@ Both proposals pass the submission check (`tools/validation/check_submission.py`
 
 - Reconsider the 5f link, or describe how the formative assessment gives students feedback
 - Reduce or reorganize the Step 4 block
-- Add a Participant Resources section that describes the handouts
+- Re-check the restored Participant Resources section in a fresh review, since this round did not see it
 - State the grade level
 - Decide whether formative assessment is a separate practice (keep it) or part of Data Wise
 
@@ -83,4 +83,4 @@ Round four used one reviewer for both proposals, which resolves the pedagogy inc
 3. Reconsider the 5f link in both proposals.
 4. Reduce or reorganize the breakout's Step 4 block.
 5. Add a hands-on moment or an in-session discussion question to the mini.
-6. Add a Participant Resources section to the breakout that describes the handouts.
+6. Re-run the blind review for the breakout, since round four scored a version without the restored Participant Resources section.
