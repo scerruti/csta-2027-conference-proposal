@@ -27,7 +27,7 @@ This session is grounded in four steps of the Data Wise Improvement Process (Har
 - Step 6, Develop Action Plan: participants choose targeted interventions connected to AP Classroom resources.
 - Step 7, Plan to Assess Progress: participants define formative indicators that show whether the plan is working.
 
-Two research-based practices also shape the session: formative assessment, which uses classroom evidence to adjust instruction (Black and Wiliam, 1998), and concept-level diagnosis, since performance on specific concepts varies in how well it predicts programming ability (Cabo, 2015). The Step 7 formative assessment applies the first, and the Step 4 prerequisite checks apply the second.
+Two research-based practices also shape the session: formative assessment, which uses classroom evidence to adjust instruction (Black and Wiliam, 1998), and concept-level diagnosis, since performance on specific concepts varies in how well it predicts students' ability to write viable programs in a first Java course (Cabo, 2015). AP Computer Science A teaches the same language and many of the same concepts. The Step 7 formative assessment applies the first, and the Step 4 prerequisite checks apply the second.
 
 ## Standards Alignment
 
