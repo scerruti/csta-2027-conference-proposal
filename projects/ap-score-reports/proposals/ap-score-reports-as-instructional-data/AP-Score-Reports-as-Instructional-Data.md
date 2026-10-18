@@ -86,6 +86,16 @@ Two research-based practices also shape the session: formative assessment, which
 
 Participants leave with a group action plan, a formative assessment for one action area, and a template for their own data. Tangible: the Data Deep Dive worksheet, a free privacy-focused browser tool, and a score-band export guide. Intangible: confidence to diagnose gaps with colleagues.
 
+## Participant Resources
+
+- **Data Deep Dive worksheet:** the CSA and CSP Content & Skills Matrices, Concept Dependency Checks, and an Action Plan section.
+- **Worksheet glossary:** one page defining score band, benchmark, test form, and prerequisite dependency, with notes on the terms most often confused.
+- **Score-band export guide:** step-by-step instructions for setting up a data slice and exporting from the College Board AP Scores website, importing into the browser tool, and handling a failed export.
+- **Browser tool:** free and privacy-focused. It aggregates reports locally and never uploads student information.
+- **Action-plan template:** a blank plan for running the process on your own data.
+
+Attendees take home all five resources, so they can repeat the process with their own data.
+
 ## References
 
 - Black, P., & Wiliam, D. (1998). Inside the black box: Raising standards through classroom assessment. *Phi Delta Kappan*, 80(2), 139–148. https://www.jstor.org/stable/20439383
