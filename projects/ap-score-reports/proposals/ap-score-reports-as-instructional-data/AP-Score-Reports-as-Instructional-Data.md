@@ -27,6 +27,13 @@ This session is grounded in four steps of the Data Wise Improvement Process (Har
 - Step 6, Develop Action Plan: participants choose targeted interventions connected to AP Classroom resources.
 - Step 7, Plan to Assess Progress: participants define formative indicators that show whether the plan is working.
 
+## Standards Alignment
+
+- **CSTA 2d, Use data for decision-making to improve equity:** Step 4 (0:11–0:31). Score-band analysis shows which groups of students averages can hide.
+- **CSTA 4f, Plan instruction to foster student understanding:** Step 4 (0:11–0:31) and Step 6 (0:31–0:43). Prerequisite checks address misconceptions, and groups choose targeted interventions.
+- **CSTA 4g, Inform instruction through assessment:** Steps 2, 4, and 6 (0:05–0:43). Groups use score-band and benchmark data to make instructional decisions and choose an intervention.
+- **CSTA 5f, Guide students' use of feedback:** Step 7 (0:43–0:53). Groups define formative checkpoints that show whether the plan is working.
+
 ## Session Outline
 
 ### 0:00-0:05 | Form Groups and Set Data Norms
