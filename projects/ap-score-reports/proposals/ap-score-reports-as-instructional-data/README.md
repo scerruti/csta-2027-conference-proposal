@@ -44,7 +44,9 @@ The mini-session is the "why" for the same process. Each session stands alone, a
 
 ## Resources to Build
 
-- Sample questions and anti-questions for Ask. An anti-question is too broad to slice ("Why did my students do badly?") or asks something the report cannot show ("Did my students learn recursion?").
+Build after acceptance. The take-home resources are listed in the [process](../../README.md#the-process).
+
+- Sample questions and anti-questions for Ask, part of the slicing and download handout. An anti-question is too broad to slice ("Why did my students do badly?") or asks something the report cannot show ("Did my students learn recursion?").
 - Skill signs for the sort.
 
 ## Open Questions

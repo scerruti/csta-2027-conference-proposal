@@ -80,6 +80,21 @@ Both proposals are built from this process. The mini-session is the why, and the
 - **Not in the standards mapping, learning goals, or participant resources.**
 - **Not as the structure:** the proposals do not claim to follow Data Wise, only that the process parallels part of it.
 
+**Standards:** both proposals align with three CSTA Teacher Standards (2020), each tied to specific segments, as the rubric requires.
+
+- **4g, Inform instruction through assessment:** AP results inform decisions (Notice, Investigate), and the formative assessment is built and acted on (Respond).
+- **4f, Plan instruction to foster student understanding:** Hypothesize and Plan find the likely gap, prefer foundational concepts, and plan the change.
+- **3f, Participate in CS professional learning communities:** in the breakout, the skill groups through Hypothesize, Plan, and Test; in the mini, the Think-Pair-Share partners; in both, the close's case for ongoing collaboration. Weaker in the mini.
+- **Left out:** 5f (its focus is feedback to students, which the process does not address) and 2d (participation and equity data, not achievement data).
+- **On the form:** reviewers noted missing Student Subtopics. Those are selected on the submission form, not written into the proposal.
+
+**Participant resources:** the proposals describe these now; anything not yet written is built only after a proposal is accepted.
+
+- **Slicing and download handout:** starts with establishing the question. Look (what to check on the Subject Score Roster), then Ask (turning it into a question, with sample questions and anti-questions), then Slice (matching the filter to the question), then download.
+- **Tool documentation:** expanded beyond the tool's current README.
+- **Data Deep Dive worksheet, in two versions:** CSA and CSP. The workshop combined them into one packet. The revision also removes the four-cell rule and keeps the preference for earlier units.
+- **AP Classroom formative assessment handout:** creating and administering an assessment from the question bank, and how students and teachers see the results in AP Classroom.
+
 **Pedagogy basis: Marsh (2012).** Marsh, J. A. (2012). Interventions promoting educators' use of data: Research insights and gaps. *Teachers College Record, 114*(11), 1–48. https://doi.org/10.1177/016146811211401106. A review of 41 studies of interventions supporting educators' data use, from district initiatives to single workshops.
 
 - **Citation rule:** paraphrase only. The local copy is the author's manuscript (65 pages, kept out of git), and the published pagination is not available, so direct quotes would lack page numbers.
