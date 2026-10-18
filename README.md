@@ -46,8 +46,8 @@ The root of the repository contains:
 
 | Proposal | Type | Score | Submission checks | Link |
 |---|---|---:|---|---|
-| AP Score Reports as Instructional Data | Session (1 hour) | 29/35 | Passes automated checks | [Open proposal](projects/ap-score-reports/proposals/ap-score-reports-as-instructional-data) |
-| AP Scores to Instructional Action: A Quick Workflow | Mini-Session (20 minutes) | 25/35 | Passes automated checks | [Open proposal](projects/ap-score-reports/proposals/ap-score-reports-quick-workflow) |
+| AP Score Reports as Instructional Data | Session (1 hour) | 28/35 | Passes automated checks | [Open proposal](projects/ap-score-reports/proposals/ap-score-reports-as-instructional-data) |
+| AP Scores to Instructional Action: A Quick Workflow | Mini-Session (20 minutes) | 27/35 | Passes automated checks | [Open proposal](projects/ap-score-reports/proposals/ap-score-reports-quick-workflow) |
 
 Scores are from the [rubric score report](tools/scoring/Rubric-Score-Report.md). Submission checks come from `tools/validation/check_submission.py`. Update this list whenever a proposal is rescored or rechecked.
 
