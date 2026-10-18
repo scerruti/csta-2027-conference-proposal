@@ -6,7 +6,7 @@ Session (1 hour)
 
 ## Abstract
 
-AP Computer Science score reports offer valuable benchmarks, but turning them into instructional decisions takes a repeatable process. This 60-minute guided session lets teachers practice one in pairs or small groups. Each group includes at least one member with access to their own College Board Instructional Planning Report data. Working through the Data Deep Dive worksheet, groups prepare score-band exports, compare results against benchmarks, diagnose likely gaps using the CSA and CSP Content & Skills Matrices and prerequisite dependencies, and draft an action plan. Groups finish by designing formative assessments to check whether the plan works across the next school year. The workflow follows Data Wise (Steps 2, 4, 6, and 7). Participants also learn about a free, privacy-focused browser tool that aggregates reports locally without uploading student information, so data stays on each participant's laptop. This session aligns with CSTA Teacher Standards 4g (Instructional Design) and 5f (Classroom Practice). It stands alone, and the companion mini-session explains the reasoning behind the process.
+AP Computer Science score reports offer valuable benchmarks, but turning them into instructional decisions takes a repeatable process. This 60-minute guided session lets teachers practice one in pairs or small groups. Each group includes at least one member with access to their own College Board Instructional Planning Report data. Working through the Data Deep Dive worksheet, groups prepare score-band exports, compare results against benchmarks, diagnose likely gaps using the CSA and CSP Content & Skills Matrices and prerequisite dependencies, and draft an action plan. Groups finish by designing formative assessments to check whether the plan works across the next school year. The workflow follows Data Wise (Steps 2, 4, 6, and 7). Participants also learn about a free, privacy-focused browser tool that aggregates reports locally without uploading student information, so data stays on each participant's laptop. This session aligns with CSTA Teacher Standards 2d (use data for decision-making to improve equity), 4f (plan instruction to foster student understanding), 4g (inform instruction through assessment), and 5f (guide students' use of feedback). It stands alone, and the companion mini-session explains the reasoning behind the process.
 
 ## Learning Goals
 
@@ -88,6 +88,8 @@ Participants leave with an action plan and formative checkpoints for next year, 
 - **Worksheet glossary:** one page defining score band, benchmark, test form, and prerequisite dependency, with notes on the terms most often confused.
 - **Score-band export guide:** step-by-step instructions for setting up a data slice and exporting from the College Board AP Scores website, importing into the browser tool, and handling a failed export.
 - **Browser tool:** free and privacy-focused. It aggregates reports locally and never uploads student information.
+
+Attendees take home all four resources, so they can repeat the process with their own data.
 
 ## Related Links
 

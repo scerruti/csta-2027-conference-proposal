@@ -6,7 +6,7 @@ Mini-Session (20 minutes)
 
 ## Abstract
 
-Many AP Computer Science teachers can see where students struggled in their score reports. Finding the underlying cause and planning a response takes a repeatable process. This 20-minute mini-session explains why score-band exports, benchmark comparisons, and prerequisite analysis can reveal causes that averages and category summaries do not show. It introduces the Data Wise process for moving from results to action: building assessment literacy, digging into student data, developing an action plan, and planning formative checks for the next school year. Attendees leave with a take-home guide and a free, privacy-focused browser tool that aggregates reports locally without uploading student information. This session stands alone. The companion 60-minute session offers guided, partner-based practice with the same process. The session aligns with CSTA Teacher Standards 4g (Instructional Design) and 5f (Classroom Practice).
+Many AP Computer Science teachers can see where students struggled in their score reports. Finding the underlying cause and planning a response takes a repeatable process. This 20-minute mini-session explains why score-band exports, benchmark comparisons, and prerequisite analysis can reveal causes that averages and category summaries do not show. It introduces the Data Wise process for moving from results to action: building assessment literacy, digging into student data, developing an action plan, and planning formative checks for the next school year. Attendees leave with a take-home guide and a free, privacy-focused browser tool that aggregates reports locally without uploading student information. This session stands alone. The companion 60-minute session offers guided, partner-based practice with the same process. The session aligns with CSTA Teacher Standards 2d (use data for decision-making to improve equity), 4f (plan instruction to foster student understanding), 4g (inform instruction through assessment), and 5f (guide students' use of feedback).
 
 ## Learning Goals
 
@@ -86,7 +86,8 @@ Take-home prompts:
 ## Participant Resources
 
 - **Take-home guide:** a one-page map of the four Data Wise steps with the question each one answers, a score-band checklist, a benchmark comparison sheet, prerequisite questions drawn from the Content & Skills Matrix, and a formative-checkpoint template (indicator, measure, and date).
-- **Browser tool:** the same free, privacy-focused tool. It aggregates reports locally and never uploads student information. The companion 60-minute session offers guided practice with it.
+- **Data Deep Dive worksheet:** the CSA and CSP Content & Skills Matrices, Concept Dependency Checks, and an Action Plan section.
+- **AP Score Reports browser tool:** the same free, privacy-focused tool. It aggregates reports locally and never uploads student information. The companion 60-minute session offers guided practice with it.
 
 ## Related Links
 

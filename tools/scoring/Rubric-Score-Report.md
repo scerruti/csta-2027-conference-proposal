@@ -2,98 +2,81 @@
 
 ## Scope
 
-This report records the scores of record for the two proposals, from a blind review under the [blind scoring procedure](Scoring-Instructions.md#blind-scoring-required-before-each-report). The reviewer had only the [rubric tiers](Rubric-Tiers.md), each proposal's Markdown file, and each proposal's Presentation Outline PDF.
+This report records the scores of record for the two proposals from a blind review, following the [blind scoring procedure](Scoring-Instructions.md#blind-scoring-required-before-each-report). Each reviewer had only the [rubric tiers](Rubric-Tiers.md), one proposal's Markdown file, and that proposal's Presentation Outline PDF.
 
 - [AP Score Reports as Instructional Data](../../projects/ap-score-reports/proposals/ap-score-reports-as-instructional-data/AP-Score-Reports-as-Instructional-Data.md): Session (1 hour), the guided, partner-based application of the process.
 - [AP Scores to Instructional Action: A Quick Workflow](../../projects/ap-score-reports/proposals/ap-score-reports-quick-workflow/AP-Score-Reports-Quick-Workflow.md): Mini-Session (20 minutes), the reasoning behind the process.
 
-Reviewer: a fresh subagent, model opus, run once per proposal in parallel.
+Reviewer: a fresh subagent, model opus, one per proposal. Round 2 ran after the standards mapping (2d, 4f, 4g, 5f), the abstracts were updated to name all four standards, the mini's resources were named, and the breakout's take-home statement was added.
 
 ## Compliance
 
-Both proposals pass the submission check (`tools/validation/check_submission.py`) on every automated item. The manual items are the website form fields and the outline PDF upload. Both proposals have a draft outline PDF that matches the proposal title.
+Both proposals pass the submission check (`tools/validation/check_submission.py`) on every automated item. Manual items remain: the website form fields and the outline PDF upload.
 
 ## Overall Summary
 
 | Proposal | Score | Summary |
 |---|---:|---|
-| AP Score Reports as Instructional Data | 26/35 | Clear, guided design with a complete template and a practical workflow. Standards are named but not mapped to blocks, the Step 4 block is overloaded, and pedagogy rests on one framework. |
-| AP Scores to Instructional Action: A Quick Workflow | 27/35 | Complete template, clear discussion, and focused on the reasoning. Standards are named but not mapped, the browser tool is unnamed in its resources, and attendees see concepts without practice. |
+| AP Score Reports as Instructional Data | 26/35 | Clear guided design with a complete template and four standards mapped to blocks. Held back by the 20-minute live-data block, the single framework, a partner-dependent action plan for attendees without data, and a weak 2d link. |
+| AP Scores to Instructional Action: A Quick Workflow | 27/35 | Complete template, clear discussion, and four standards mapped. Held back by lecture-style openings, one framework, and attendees with no in-session practice. |
 
 ## Review: AP Score Reports as Instructional Data
 
 | Criterion | Score | Evidence and gaps |
 |---|---:|---|
-| CSTA Standards | 3/5 | Names 4g and 5f in one sentence of the abstract. No block or goal is mapped to either indicator, and no student subtopics are named. |
-| Content | 4/5 | Template used. Learning goals, discussion questions, and timed activities are present, and the activities suit a session. The reviewer doubted the time for the 0:11–0:31 block, which covers the login, slice, export, import, cell circling, prerequisite checks, an engagement task, and two discussion questions. |
-| Educational Best Practices / Pedagogy | 3/5 | Four Data Wise steps (2, 4, 6, and 7), cited to the Harvard GSE article. Counted as one framework, so one practice. Other practices in the outline are not named or grounded. |
-| Engaging and Relevance | 4/5 | Relevant to AP CS teachers and well matched to the session type. Participants without College Board access depend on a partner's data, which the reviewer flagged. |
-| Takeaways | 4/5 | Tangible and intangible takeaways are named, and resources are described in detail. The intangible outcome is thin, and the proposal does not say how attendees get the tool or worksheet after the session. |
-| Attendee Preparedness | 4/5 | Attendees rehearse the full cycle and leave with an action plan and formative checkpoints. Partners without data may find the plan harder to apply to their own classes. |
-| Overall Recommendation | 4/5 | Recommend acceptance (top 25%). Main weaknesses: standards mapping, one framework, and the Step 4 time. |
+| CSTA Standards | 4/5 | 4g is mapped to Steps 2, 4, and 6. 2d and 4f are mapped to Steps 4 and 6, and 5f to Step 7. No student subtopics are named. The reviewer found the 2d link thin: score bands are not demographic groups. The 5f link is also a stretch, since the activity is teachers designing checkpoints, not students using feedback. |
+| Content | 4/5 | Template used. Goals, five discussion questions, and timed activities are present. The 0:11–0:31 block is the risk: a data slice, export, import, cell circling, and prerequisite checks in 20 minutes depend on live College Board logins and conference Wi-Fi. No fallback is given for a failed export. |
+| Educational Best Practices / Pedagogy | 3/5 | Four Data Wise steps from one framework, counted as one practice. Group roles and peer checks appear in the outline but are not named as practices. |
+| Engaging and Relevance | 4/5 | Relevant and practical for AP CS teachers. The audience is limited to teachers with report access. Attendees without data work on a partner's results, which is less engaging. |
+| Takeaways | 4/5 | Tangible and intangible takeaways are named, and resources are detailed. The browser tool has no name or link. The action plan is built from the group's data, so attendees who are not the data-holder leave with a plan for someone else's students. |
+| Attendee Preparedness | 4/5 | Attendees rehearse the full cycle, handle a failed export, and take home the resources to repeat it. Tight timing and partner-only data may keep some from feeling extremely prepared. |
+| Overall Recommendation | 3/5 | Might recommend (top 50%). Coherent and practical, but the live-data block, the single framework, and the narrow audience hold it back. |
 
 ### Final Score: 26/35
 
-### Strengths
-
-- Clear, guided structure with timed blocks that total 60 minutes
-- Real College Board data used collaboratively, with privacy handled by a local tool
-- Formative-assessment plan for next year, tied to Data Wise Step 7
-- Discussion questions placed inside the blocks where they are used
-
 ### Improvements
 
-- Map 4g and 5f to specific blocks, and name the student subtopics the session addresses
-- Reduce the Step 4 block, or move the discussion questions out of it
-- Name and cite at least one more practice, if a source can be supplied
-- Say how attendees use the tool and worksheet after the session
+- Add a fallback for a failed export, such as sample data, so no group is stuck in the 0:11–0:31 block
+- Reconsider the 2d link, or replace it with a more direct equity claim
+- Reconsider the 5f link, emphasizing adjustment of instruction and student feedback
+- Name the browser tool and say how attendees get access
+- Give attendees without data a way to apply the plan to their own students
 
 ## Review: AP Scores to Instructional Action: A Quick Workflow
 
 | Criterion | Score | Evidence and gaps |
 |---|---:|---|
-| CSTA Standards | 3/5 | Names 4g and 5f in one sentence of the abstract. Not mapped to any segment or goal, and no student subtopics are named. |
-| Content | 5/5 | Template used. Learning goals, discussion questions, and engagement appear for each of six segments, which total 20 minutes. The pacing is tight, and a strict reviewer could score it 4. |
-| Educational Best Practices / Pedagogy | 4/5 | Same four Data Wise steps and citation as the breakout. The reviewer scored this 4 but counted the breakout's steps as one framework (3). See the note below. |
-| Engaging and Relevance | 4/5 | Relevant and engaging for AP CS teachers. The grade level is not stated, and the audience is narrow. |
-| Takeaways | 4/5 | Tangible and intangible takeaways are named, and the guide is described in detail. The browser tool is not named or linked, and the Data Deep Dive worksheet is not listed under Participant Resources. |
-| Attendee Preparedness | 3/5 | Attendees learn concepts only. They do not use real data, the tool, or the guide during the 20 minutes, and practice is deferred to the companion session. |
-| Overall Recommendation | 4/5 | Recommend acceptance. The session is well structured and honest about its scope. Main weaknesses: standards, the narrow audience, and the lack of in-session practice. |
+| CSTA Standards | 4/5 | Maps 2d and 4g to the score-band and causes segments, 4f to the causes segment, and 5f to the Data Wise map and formative checks. No student subtopics. The reviewer found 5f a poor fit, for the same reason as the breakout. |
+| Content | 5/5 | Template used. Goals, a discussion question, and an engagement activity for each segment. The pacing is tight: explaining four steps and an ordering activity in 4 minutes is ambitious. |
+| Educational Best Practices / Pedagogy | 3/5 | Same four Data Wise steps and citation as the breakout. One framework, counted as one practice. |
+| Engaging and Relevance | 4/5 | Relevant for AP CS teachers. Most segments open with "Explain why," so delivery leans on lecture. Grade level is implied by "AP," not stated. |
+| Takeaways | 4/5 | The take-home guide and worksheet are described in detail. One intangible outcome. The browser tool's features and access are barely described. |
+| Attendee Preparedness | 3/5 | Nobody works with real or sample data in the session, and practice is moved to take-home prompts and the companion session. Readiness rests on the guide alone. |
+| Overall Recommendation | 4/5 | Recommend. Well organized and matches the template. Falls short of top 5% because its research base is thin, it is mostly lecture, and it is conceptual rather than hands-on. |
 
 ### Final Score: 27/35
 
-### Strengths
-
-- Focused on the reasoning behind the process, with a clear path to the companion session
-- Reflective in-session question that fits the 20-minute format
-- Standards and Data Wise steps match the breakout, so the two sessions connect
-- Take-home guide described in detail
-
 ### Improvements
 
-- Map 4g and 5f to specific segments
-- Name the browser tool and link it in Participant Resources, and add the Data Deep Dive worksheet
-- Add a short hands-on moment, so attendees try one step
-- State the grade level
-
-## Note on Pedagogy Counting
-
-The reviewer scored the breakout's pedagogy 3 and the mini's 4 for the same four Data Wise steps, and the mini's rationale also counts the steps as one framework. The two scores are inconsistent. Under the blind procedure, both proposals should be reviewed by the same reviewer, and the counting rule should be fixed before the next round.
+- Open segments with a question or task, not an explanation, to reduce lecture time
+- Add one short hands-on moment in which attendees try one step on sample data
+- Reconsider the 5f link, as for the breakout
+- Name the browser tool and state the grade level
 
 ## Changes From the Previous Scoring
 
-| Proposal | Author scores | Blind scores | Main reasons |
+| Proposal | Round 1 (blind) | Round 2 (blind) | Main reasons |
 |---|---:|---:|---|
-| AP Score Reports as Instructional Data | 29 | 26 | Standards dropped to 3 (named, not mapped). Pedagogy dropped to 3 (one framework). Content dropped to 4 (time for the Step 4 block). Takeaways and Preparedness unchanged at 4. |
-| AP Scores to Instructional Action | 28 | 27 | Standards dropped to 3. Attendee Preparedness dropped to 3 (concepts only). Overall rose to 4. Content, Pedagogy, Engaging, and Takeaways unchanged. |
+| AP Score Reports as Instructional Data | 26 | 26 | Standards rises to 4 with the mapping. Pedagogy and Overall fall to 3 (the reviewer applied the one-framework rule consistently). Content is 4 in both rounds. |
+| AP Scores to Instructional Action | 27 | 27 | Standards rises to 4. Pedagogy falls to 3 to match the breakout. Attendee Preparedness is 3 in both rounds. Overall rises to 4 from round 1's 4. |
 
-The author scores were generous on Standards and Pedagogy, and in the earlier round they counted resources that were not yet written. The blind scores are the scores of record.
+The round-one pedagogy inconsistency is resolved: both proposals now score 3 for the same four steps.
 
 ## Recommended Next Steps
 
-1. Map 4g and 5f to specific blocks in both proposals.
-2. Fix the breakout's Step 4 timing.
-3. Name the browser tool and add the worksheet to the mini's Participant Resources.
-4. Decide whether to name and cite additional pedagogy practices, which needs a source.
-5. Decide whether the mini should include a hands-on moment.
-6. Re-run the blind review after the changes, using the same reviewer for both proposals.
+1. Decide the Step 4 fallback for a failed export, and whether to shorten the block.
+2. Decide whether to keep the 2d and 5f links, or replace them with more direct claims.
+3. Decide whether the mini should include a hands-on moment.
+4. Decide how attendees without data apply the plan to their own students.
+5. Decide whether to name and cite another pedagogy practice, which needs a source from you.
+6. Name the browser tool and state the grade level in both proposals.
