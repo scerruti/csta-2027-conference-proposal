@@ -6,7 +6,7 @@ Mini-Session (20 minutes)
 
 ## Abstract
 
-Many AP Computer Science teachers can see where students struggled in their score reports. Finding the underlying cause and planning a response takes a repeatable process. This 20-minute mini-session explains why score-band exports, benchmark comparisons, and prerequisite analysis can reveal causes that averages and category summaries do not show. It introduces the Data Wise process for moving from results to action: building assessment literacy, digging into student data, developing an action plan, and planning formative checks for the next school year. Attendees leave with a take-home guide and a free, privacy-focused browser tool that aggregates reports locally without uploading student information. This session stands alone. The companion 60-minute session offers guided, partner-based practice with the same process. The session aligns with CSTA Teacher Standards 2d (use data for decision-making to improve equity), 4f (plan instruction to foster student understanding), 4g (inform instruction through assessment), and 5f (guide students' use of feedback).
+Many AP Computer Science teachers can see where students struggled in their score reports. Finding the underlying cause and planning a response takes a repeatable process. This 20-minute mini-session explains why score-band exports, benchmark comparisons, and prerequisite analysis can reveal causes that averages and category summaries do not show. It introduces the Data Wise process for moving from results to action: building assessment literacy, digging into student data, developing an action plan, and planning formative checks for the next school year. Attendees leave with a take-home guide and a free, privacy-focused browser tool that aggregates reports locally without uploading student information. This session stands alone. The companion 60-minute session offers guided, partner-based practice with the same process. The session aligns with CSTA Teacher Standards 4f (plan instruction to foster student understanding), 4g (inform instruction through assessment), and 5f (guide students' use of feedback).
 
 ## Learning Goals
 
@@ -28,7 +28,6 @@ This session is grounded in four steps of the Data Wise Improvement Process (Har
 
 ## Standards Alignment
 
-- **CSTA 2d, Use data for decision-making to improve equity:** the score-band and benchmark segment (0:03–0:07). Mixed-performance groups can hide the students who need support.
 - **CSTA 4f, Plan instruction to foster student understanding:** the causes segment (0:07–0:11). Prerequisite analysis helps find misconceptions and underlying gaps.
 - **CSTA 4g, Inform instruction through assessment:** the score-band and benchmark segment (0:03–0:07) and the causes segment (0:07–0:11). Participants learn how data supports instructional decisions.
 - **CSTA 5f, Guide students' use of feedback:** the Data Wise map (0:11–0:15) and the formative-checks segment (0:15–0:18), which shows how question-bank tags let a teacher build a formative assessment for an action area.

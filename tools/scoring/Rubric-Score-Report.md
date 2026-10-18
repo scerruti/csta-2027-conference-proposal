@@ -17,14 +17,14 @@ Both proposals pass the submission check (`tools/validation/check_submission.py`
 
 | Proposal | Score | Summary |
 |---|---:|---|
-| AP Score Reports as Instructional Data | 26/35 | Clear guided design with a complete template and four standards mapped to blocks. Held back by the 20-minute live-data block, the single framework, a partner-dependent action plan for attendees without data, and a weak 2d link. |
+| AP Score Reports as Instructional Data | 26/35 | Clear guided design with a complete template and three standards mapped to blocks. Held back by the 20-minute live-data block, the single framework, and a partner-dependent action plan for attendees without data. |
 | AP Scores to Instructional Action: A Quick Workflow | 27/35 | Complete template, clear discussion, and four standards mapped. Held back by lecture-style openings, one framework, and attendees with no in-session practice. |
 
 ## Review: AP Score Reports as Instructional Data
 
 | Criterion | Score | Evidence and gaps |
 |---|---:|---|
-| CSTA Standards | 4/5 | 4g is mapped to Steps 2, 4, and 6. 2d and 4f are mapped to Steps 4 and 6, and 5f to Step 7. No student subtopics are named. The reviewer found the 2d link thin: score bands are not demographic groups. The 5f link is also a stretch, since the activity is teachers designing checkpoints, not students using feedback. |
+| CSTA Standards | 4/5 | 4g is mapped to Steps 2, 4, and 6. 4f is mapped to Steps 4 and 6, and 5f to Step 7. No student subtopics are named. The 5f link is also a stretch, since the activity is teachers designing checkpoints, not students using feedback. |
 | Content | 4/5 | Template used. Goals, five discussion questions, and timed activities are present. The 0:11–0:31 block is the risk: a data slice, export, import, cell circling, and prerequisite checks in 20 minutes depend on live College Board logins and conference Wi-Fi. No fallback is given for a failed export. |
 | Educational Best Practices / Pedagogy | 3/5 | Four Data Wise steps from one framework, counted as one practice. Group roles and peer checks appear in the outline but are not named as practices. |
 | Engaging and Relevance | 4/5 | Relevant and practical for AP CS teachers. The audience is limited to teachers with report access. Attendees without data work on a partner's results, which is less engaging. |
@@ -37,7 +37,6 @@ Both proposals pass the submission check (`tools/validation/check_submission.py`
 ### Improvements
 
 - Add a fallback for a failed export, such as sample data, so no group is stuck in the 0:11–0:31 block
-- Reconsider the 2d link, or replace it with a more direct equity claim
 - The 5f link was reworded after round two to describe a formative assessment built from the AP Classroom question bank. Re-run the blind review to score that wording
 - Name the browser tool and say how attendees get access
 - Give attendees without data a way to apply the plan to their own students
@@ -46,7 +45,7 @@ Both proposals pass the submission check (`tools/validation/check_submission.py`
 
 | Criterion | Score | Evidence and gaps |
 |---|---:|---|
-| CSTA Standards | 4/5 | Maps 2d and 4g to the score-band and causes segments, 4f to the causes segment, and 5f to the Data Wise map and formative checks. No student subtopics. The reviewer found 5f a poor fit, for the same reason as the breakout. |
+| CSTA Standards | 4/5 | Maps 4g to the score-band and causes segments, 4f to the causes segment, and 5f to the Data Wise map and formative checks. No student subtopics. The reviewer found 5f a poor fit, for the same reason as the breakout. |
 | Content | 5/5 | Template used. Goals, a discussion question, and an engagement activity for each segment. The pacing is tight: explaining four steps and an ordering activity in 4 minutes is ambitious. |
 | Educational Best Practices / Pedagogy | 3/5 | Same four Data Wise steps and citation as the breakout. One framework, counted as one practice. |
 | Engaging and Relevance | 4/5 | Relevant for AP CS teachers. Most segments open with "Explain why," so delivery leans on lecture. Grade level is implied by "AP," not stated. |
@@ -75,7 +74,7 @@ The round-one pedagogy inconsistency is resolved: both proposals now score 3 for
 ## Recommended Next Steps
 
 1. Decide the Step 4 fallback for a failed export, and whether to shorten the block.
-2. Decide whether to keep the 2d link, or replace it with a more direct claim. The 5f wording has changed since round two, so re-run the blind review.
+2. The 5f wording and the removal of standard 2d have changed the proposals since round two, so re-run the blind review.
 3. Decide whether the mini should include a hands-on moment.
 4. Decide how attendees without data apply the plan to their own students.
 5. Decide whether to name and cite another pedagogy practice, which needs a source from you.
