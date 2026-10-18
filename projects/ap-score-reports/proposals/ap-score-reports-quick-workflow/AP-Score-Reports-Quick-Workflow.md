@@ -6,11 +6,16 @@ Mini-Session (20 minutes)
 
 ## Abstract
 
-AP Computer Science score reports can be valuable, but many teachers stop at averages and pass rates. This proposal introduces a practical workflow for turning AP score reports into instructional decisions. Participants will learn how score-band exports, benchmark comparisons, and prerequisite concept analysis can reveal data gaps and instructional gaps hidden in aggregate summaries. Using examples from AP Computer Science A and AP Computer Science Principles, attendees will see how to identify patterns in performance, diagnose likely causes, and connect findings to AP Classroom support and classroom planning.
+Many AP Computer Science teachers can see where students struggled in their score reports. Finding the underlying cause and planning a response takes a repeatable process. This 20-minute mini-session explains why score-band exports, benchmark comparisons, and prerequisite analysis can reveal causes that averages and category summaries do not show. It introduces the Data Wise process for moving from results to action: building assessment literacy, digging into student data, developing an action plan, and planning formative checks for the next school year. Attendees leave with a take-home guide and a free, privacy-focused browser tool that aggregates reports locally without uploading student information. This session stands alone. The companion 60-minute session offers guided, partner-based practice with the same process. The session aligns with CSTA Teacher Standards 4g (Instructional Design) and 5f (Classroom Practice).
 
-We will also introduce a free, privacy-focused browser tool developed for AP score-report analysis. The tool aggregates AP Instructional Planning Reports locally, without uploading student information, and pairs with a planning worksheet that helps teachers move from analysis to intervention. This session is designed for teachers who want a practical, actionable process they can use immediately after AP results arrive.
+## Learning Goals
 
-This proposal aligns with CSTA Teacher Standards 4g (Instructional Design) and 5f (Classroom Practice) by using assessment data to diagnose learning gaps, analyze prerequisite concepts, and plan targeted instructional responses for AP CS students.
+Participants will:
+
+- Explain why score-band exports and prerequisite analysis can reveal causes that averages do not show.
+- Describe how benchmark comparisons help confirm where a gap is real.
+- Outline the Data Wise steps for turning AP results into an action plan with formative checks.
+- Plan a first use of the take-home guide with their own AP data.
 
 ## Educational Basis
 
@@ -23,55 +28,40 @@ This session is grounded in four steps of the Data Wise Improvement Process (Har
 
 ## Session Timed Outline
 
-### 0:00-0:03 | The AP Data Challenge
+### 0:00-0:03 | Why Averages Stop Short
 
-- Ask participants what they look for first when AP results arrive.
-- Highlight the limitations of pass rates and aggregate averages.
-- Introduce the challenge of moving from data to instructional action.
-- Participant engagement: quick audience poll and discussion.
+- Ask participants what they look at first when AP results arrive.
+- Explain why averages and pass rates can hide where students struggle.
+- Participant engagement: quick poll on what each participant currently looks at first.
 
-### 0:03-0:06 | Prepare Better Data Before Analysis
+### 0:03-0:07 | Why Score Bands and Benchmarks Matter
 
-- Demonstrate score-band exports.
-- Discuss why mixed-performance groups can hide instructional needs.
-- Explain the impact of multiple test forms.
-- Participant engagement: predict whether class-level or score-band analysis reveals more useful instructional information.
+- Explain why mixed-performance groups can hide needs, and how multiple test forms affect comparisons.
+- Participant engagement: predict whether a class-level or score-band view would show more.
 
-### 0:06-0:10 | Finding Data Gaps
+### 0:07-0:11 | Why Causes Need a Second Look
 
-- Demonstrate analysis using the AP Score Reports tool.
-- Compare results against benchmark performance.
-- Identify apparent areas for intervention.
-- Participant engagement: participants identify which area they would prioritize first.
+- Explain prerequisite analysis conceptually, using one example from the Content & Skills Matrix as a picture, not a walkthrough.
+- Participant engagement: name one suspected cause to test before choosing an intervention.
 
-### 0:10-0:15 | The Diagnostic Challenge
+### 0:11-0:15 | The Data Wise Map
 
-- Introduce the Content & Skills Matrix.
-- Demonstrate how prerequisite dependencies can reveal root causes.
-- Participant engagement: participants share one skill they expected to see flagged.
+- Present the four steps this session uses: Build Assessment Literacy, Dig into Student Data, Develop Action Plan, and Plan to Assess Progress. Explain what each step answers.
+- Participant engagement: put the four steps in order and say what each one answers.
 
-### 0:15-0:18 | Turning Insights into Action
+### 0:15-0:18 | Where Formative Checks Fit
 
-- Introduce the Data Deep Dive worksheet.
-- Walk through one completed example.
-- Connect findings to AP Classroom interventions.
-- Participant engagement: participants suggest a possible intervention strategy.
+- Explain why a plan needs measurable indicators before it starts.
+- Participant engagement: share one indicator they would use.
 
-### 0:18-0:20 | Resources and Discussion
+### 0:18-0:20 | Take-Home and Reflection
 
-- Data Deep Dive worksheet: CSA and CSP Content & Skills Matrices, concept dependency checks, and action plan
-- AP Score Reports browser tool (free, runs locally)
-- Score-band export how-to
-- Next steps and Q&A
+- Point to the take-home guide and browser tool, and to the 60-minute session for guided practice.
+- In-session question: "Compared with how you use AP results now, are you data aware or data driven?"
 
 ## Participant Outcomes
 
-Participants will:
-
-- Understand how score-band exports improve AP score-report analysis.
-- Use benchmark comparisons to identify meaningful data patterns.
-- Apply prerequisite concept analysis to diagnose instructional root causes.
-- Access free tools and planning resources that support implementation.
+Participants leave with a map of the Data Wise process for AP results and a take-home guide to start it with their own data. Tangible: the guide, a free privacy-focused browser tool, and formative-check planning steps. Intangible: confidence to test a suspected cause before choosing an intervention.
 
 ## Discussion Questions
 
