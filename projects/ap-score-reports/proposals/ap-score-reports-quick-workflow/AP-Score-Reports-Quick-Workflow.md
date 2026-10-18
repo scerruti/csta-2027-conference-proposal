@@ -31,7 +31,7 @@ This session is grounded in four steps of the Data Wise Improvement Process (Har
 - **CSTA 2d, Use data for decision-making to improve equity:** the score-band and benchmark segment (0:03–0:07). Mixed-performance groups can hide the students who need support.
 - **CSTA 4f, Plan instruction to foster student understanding:** the causes segment (0:07–0:11). Prerequisite analysis helps find misconceptions and underlying gaps.
 - **CSTA 4g, Inform instruction through assessment:** the score-band and benchmark segment (0:03–0:07) and the causes segment (0:07–0:11). Participants learn how data supports instructional decisions.
-- **CSTA 5f, Guide students' use of feedback:** the Data Wise map (0:11–0:15) and the formative-checks segment (0:15–0:18).
+- **CSTA 5f, Guide students' use of feedback:** the Data Wise map (0:11–0:15) and the formative-checks segment (0:15–0:18), which shows how question-bank tags let a teacher build a formative assessment for an action area.
 
 ## Session Timed Outline
 
@@ -58,7 +58,7 @@ This session is grounded in four steps of the Data Wise Improvement Process (Har
 
 ### 0:15-0:18 | Where Formative Checks Fit
 
-- Explain why a plan needs measurable indicators before it starts.
+- Explain how the AP Classroom question bank's content and skill tags let a teacher build a formative assessment for an action area.
 - Participant engagement: share one indicator they would use.
 
 ### 0:18-0:20 | Take-Home and Reflection

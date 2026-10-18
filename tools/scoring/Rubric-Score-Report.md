@@ -38,7 +38,7 @@ Both proposals pass the submission check (`tools/validation/check_submission.py`
 
 - Add a fallback for a failed export, such as sample data, so no group is stuck in the 0:11–0:31 block
 - Reconsider the 2d link, or replace it with a more direct equity claim
-- Reconsider the 5f link, emphasizing adjustment of instruction and student feedback
+- The 5f link was reworded after round two to describe a formative assessment built from the AP Classroom question bank. Re-run the blind review to score that wording
 - Name the browser tool and say how attendees get access
 - Give attendees without data a way to apply the plan to their own students
 
@@ -60,7 +60,7 @@ Both proposals pass the submission check (`tools/validation/check_submission.py`
 
 - Open segments with a question or task, not an explanation, to reduce lecture time
 - Add one short hands-on moment in which attendees try one step on sample data
-- Reconsider the 5f link, as for the breakout
+- The 5f link was reworded after round two to describe the question bank's content and skill tags. Re-run the blind review to score that wording
 - Name the browser tool and state the grade level
 
 ## Changes From the Previous Scoring
@@ -75,7 +75,7 @@ The round-one pedagogy inconsistency is resolved: both proposals now score 3 for
 ## Recommended Next Steps
 
 1. Decide the Step 4 fallback for a failed export, and whether to shorten the block.
-2. Decide whether to keep the 2d and 5f links, or replace them with more direct claims.
+2. Decide whether to keep the 2d link, or replace it with a more direct claim. The 5f wording has changed since round two, so re-run the blind review.
 3. Decide whether the mini should include a hands-on moment.
 4. Decide how attendees without data apply the plan to their own students.
 5. Decide whether to name and cite another pedagogy practice, which needs a source from you.
