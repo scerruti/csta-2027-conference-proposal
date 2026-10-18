@@ -2,6 +2,12 @@
 
 Score each criterion from 1 to 5. Choose the highest tier whose full description the proposal meets. Base every judgment only on the proposal text and the attached Presentation Outline.
 
+## Counting Rules
+
+- **Practices:** count distinct practices, not steps, stages, or citations of one framework. Several steps from one framework (for example, four steps of Data Wise) count as one practice. A practice counts only if it is named in the proposal and grounded in research or sound pedagogy, which a citation or a clear rationale shows.
+- **Resources:** judge a named resource by the proposal's description of it. Do not reward or penalize a resource for existing or not existing.
+- **Standards:** count a standard only if the proposal names its indicator and ties it to a specific part of the session.
+
 ## 1. CSTA Standards (Teacher and/or Student Subtopics)
 
 - 5: Existing CSTA Teacher Standards and Student Subtopics are identified, highly relevant, and thoroughly addressed.

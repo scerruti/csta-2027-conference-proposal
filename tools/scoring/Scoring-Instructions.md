@@ -187,7 +187,7 @@ Inputs (and only these):
 Procedure:
 1. **Pin the round to a commit.** Record the commit hash being scored. Reviewers read files from that commit (for example, with `git show <commit>:<path>`), not from the working tree, so later edits cannot change the input.
 2. **Run the structure check first.** Run `tools/validation/check_submission.py` on both proposals and record the result. A round is invalid if a required section is missing from either proposal; fix it and start a new round.
-3. **Use three independent reviewers:** one Opus and two Sonnet. Each reviewer is a fresh session that scores both proposals in that one session, using the same inputs and the same counting rules. No reviewer sees another reviewer's scores.
+3. **Use three independent reviewers for each proposal:** one Opus and two Sonnet. Each reviewer is a fresh session that scores one proposal, using only that proposal's inputs and the counting rules in the tiers file. Reviewers do not see the other proposal in the project, and no reviewer sees another reviewer's scores.
 4. **Ask each reviewer for:** the matched tier for each of the seven criteria, up to three direct quotes that support it, one or two sentences on what keeps it from the next tier up, the total, and a list of anything that cannot be judged from the text.
 5. **Save every raw output verbatim** under `tools/scoring/rounds/<commit>/`, one file per reviewer. The report is generated from these files, not typed from memory.
 6. **Set the score of record per criterion to the median** of the three reviewers. The median of three is the middle score.
@@ -196,7 +196,7 @@ Procedure:
 9. Judge named resources by the proposal's description of them. Do not raise a score because of materials that are not in the proposal, or because they will be built later.
 10. Record the round's commit, date, reviewers and models, and any reconciliations in the Rubric Score Report.
 
-Why: a fresh reader cannot anchor on earlier scores or on unfinished materials, and three independent readers reduce the effect of any one reader's error. A single reviewer missed a missing section in round four, so the structure check comes first. Reviewers from the same model family can share blind spots, so the human review is the independent check of last resort.
+Why: a fresh reader cannot anchor on earlier scores, on unfinished materials, or on the other proposal in the project. Three independent readers reduce the effect of any one reader's error. A single reviewer missed a missing section in round four, so the structure check comes first. Reviewers from the same model family can share blind spots, so the human review is the independent check of last resort.
 
 ## Suggested Scoring Template
 
