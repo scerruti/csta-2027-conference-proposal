@@ -37,9 +37,11 @@ Both proposals are built from this process. The mini-session is the why, and the
 
 **What:** a repeatable process that moves AP CSA and AP CSP teachers from data-aware to data-driven instruction. Teachers go from knowing which areas were problematic for students on a prior year's exam to using that data to change what they teach, and using custom AP Classroom formative assessments to monitor the process.
 
+**Data-driven, defined:** the data identifies where to look, the teacher's experience forms a hypothesis, and new data tests it. Teachers hear "data-driven" constantly but rarely see it defined, so the proposals define it explicitly. This definition includes teacher judgment, which answers the research critique of "data-driven" in favor of "data-informed." "Data-aware" means knowing the results without acting on them.
+
 **Result:** an action plan for next year's teaching that includes a simple AP Classroom formative assessment to collect additional data.
 
-**Audience:** AP CSA and AP CSP teachers who want to use a previous year's data to guide future instruction. The process is the same for both courses; the artifacts are customized to each course's learning objectives. The process, though not the tools, may apply to other domains.
+**Audience:** AP CSA and AP CSP teachers who want to use a previous year's data to guide future instruction. Attendees are assumed to arrive data-aware, so the sessions focus on the move to data-driven. The process is the same for both courses; the artifacts are customized to each course's learning objectives. The process, though not the tools, may apply to other domains.
 
 **Stages and steps:** the eight steps are grouped into three stages, so the process is easier to take in. The stages follow the move from data-aware to data-driven.
 
@@ -74,6 +76,16 @@ Both proposals are built from this process. The mini-session is the why, and the
 - **Not in the vocabulary:** use "question," "hypothesis," and "formative assessment," not "priority question," "learner-centered problem," or "indicator."
 - **Not in the standards mapping, learning goals, or participant resources.**
 - **Not as the structure:** the proposals do not claim to follow Data Wise, only that the process parallels part of it.
+
+**Pedagogy basis: Marsh (2012).** Marsh, J. A. (2012). Interventions promoting educators' use of data: Research insights and gaps. *Teachers College Record, 114*(11), 1–48. https://doi.org/10.1177/016146811211401106. A review of 41 studies of interventions supporting educators' data use, from district initiatives to single workshops.
+
+- **Citation rule:** paraphrase only. The local copy is the author's manuscript (65 pages, kept out of git), and the published pagination is not available, so direct quotes would lack page numbers.
+- **Framework:** data use as a cycle in which raw data is organized into information, combined with educator expertise to become actionable knowledge, acted on, and evaluated, with feedback loops whenever more data is needed. Marsh adapts it from earlier work (Ackoff; Mandinach and colleagues), and citing Marsh is sufficient.
+- **Mapping:** her five leverage points match the process. (1) Accessing data: Look, Slice and download. (2) Organizing data into information: Combine. (3) Combining information with expertise: Hypothesize together. (4) Acting: Plan. (5) Assessing results: Test, Adjust. The feedback loop for more data is the role of the formative assessment.
+- **Supports the definition of data-driven:** the same data can lead to different actions depending on the user's situation and judgment.
+- **Promising practices, all present in the process:** usable data (the tool), norms that make data safe to discuss (data as a tool for raising questions, not judging, which echoes the workshop slides), support at multiple leverage points, and cross-site collaboration (step 5, and a conference is cross-site).
+- **Supports the why:** educators most often lack support for moving from knowledge to action (leverage point 4), and Marsh calls for more attention there.
+- **Cautions:** a single training session alone did not lead to data use in the studies she reviewed, so the proposals should not claim one session changes practice; they should rest on the take-home resources and a process repeated each year. The evidence base is limited in quantity and quality and relies mostly on self-reports, so cite Marsh as a framework and review, not as proof of effect.
 
 **Sources:** in `resources/`: the workshop slides, the Data Deep Dive worksheet, College Board's Subject Score Roster and Instructional Planning Report overviews, and a sample CSP Instructional Planning Report. Also the browser tool's documentation.
 
