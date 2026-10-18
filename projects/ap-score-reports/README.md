@@ -31,6 +31,41 @@ projects/ap-score-reports/
 
 Scores come from the [rubric score report](../../tools/scoring/Rubric-Score-Report.md). Update this table whenever a proposal is rescored or rechecked, so the project README reflects the current score, proposal type, and submission status.
 
+## The Process
+
+Both proposals are built from this process. The mini-session is the why, and the breakout is the how. Each stands alone.
+
+**What:** a repeatable process that moves AP CSA and AP CSP teachers from data-aware to data-driven instruction. Teachers go from knowing which areas were problematic for students on a prior year's exam to using that data to change what they teach, and using custom AP Classroom formative assessments to monitor the process.
+
+**Result:** an action plan for next year's teaching that includes a simple AP Classroom formative assessment to collect additional data.
+
+**Audience:** AP CSA and AP CSP teachers who want to use a previous year's data to guide future instruction. The process is the same for both courses; the artifacts are customized to each course's learning objectives. The process, though not the tools, may apply to other domains.
+
+**Steps:**
+
+1. **Look:** review the Subject Score Roster: score distribution, mean, and percentage of scores 3 or higher, by section and against state and global peers.
+2. **Ask:** form a question from that look. Examples: "How do I get more students to pass?" "How could I get my period 4 students to earn a 5?"
+3. **Slice and download:** filter the Instructional Planning Report by score band and/or section to match the question, then download it. One download contains all test forms. Example: score 2 only, since 3 is passing and 1 probably means no foundation.
+4. **Combine:** the browser tool aggregates the forms, which College Board does not do, into two tables: units (or big ideas) and practices. The aggregation is "good enough" for decisions, not statistically exact.
+5. **Hypothesize (collaboratively):** pick a focus area from each table and find the intersection on the Data Deep Dive worksheet's matrix. The test cannot show which content and skill combination caused the problem, so the intersection is a hypothesis. With other instructors, take the matrix selections in priority order, most foundational first. For each, first state what the data shows (colleagues ask clarifying questions only), then interpret it together: how I taught it, what worked or was different, how other curricula teach it. The group names a hypothesis and the teacher justifies keeping or dropping it. The top one or two hypotheses drive the plan.
+6. **Plan:** complete the worksheet's action plan. The specific change depends on the teacher's adopted curriculum; the point is to give the teacher something concrete to change.
+7. **Test:** build AP Classroom formative assessments by filtering the question bank by learning objective, skill, or content area for the focus area. Give them before and/or after the change to collect additional data.
+8. **Adjust:** reteach or spiral the content as the results indicate, and account for the results in future planning.
+
+**Out of scope:**
+
+- Score alignment (missing or misassigned student scores). Assumed correct.
+- Improving AP scores as a goal. Too many outside influences are beyond the teacher's control.
+
+**Borrowed ideas:** step 5's collaborative review and its separation of evidence from interpretation draw on ideas found in the Data Wise Improvement Process (examining instruction, observing before inferring). The proposals use the ideas, not the Data Wise structure.
+
+**Sources:** in `resources/`: the workshop slides, the Data Deep Dive worksheet, College Board's Subject Score Roster and Instructional Planning Report overviews, and a sample CSP Instructional Planning Report. Also the browser tool's documentation.
+
+## Open Questions
+
+- **Rethink the four-cell rule.** "Circle exactly 4 cells" was a workshop convenience. The aim is to identify a likely root cause, not to reach a fixed count.
+- **Evaluate for inclusion: comparing two slices.** The workshop downloaded a single slice and did not compare slices. College Board's Instructional Planning Report overview suggests comparing the score-2 students with the score-3-or-higher students. The teacher's question would become: "What did my 3s learn that my 2s did not?"
+
 ## Project Resources
 
 Project-specific resources live under the `resources/` folder. This can include worksheets, supporting documents, or other materials that belong to this project rather than the shared repository root.
