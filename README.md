@@ -6,9 +6,12 @@ This repository is organized by shared project infrastructure at the root and pr
 
 ```text
 .
+├── CONTRIBUTING.md
 ├── README.md
 ├── conference/
-│   └── conference-proposal.pdf
+│   ├── conference-proposal.pdf
+│   ├── CSTA 2027 Call for Proposals Planning Sheet.pdf
+│   └── CSTA 2027 Presentation Outline.pdf
 ├── projects/
 │   └── ap-score-reports/
 │       ├── README.md
@@ -21,6 +24,7 @@ This repository is organized by shared project infrastructure at the root and pr
 │   │   ├── Rubric-Score-Report.md
 │   │   └── Scoring-Instructions.md
 │   └── validation/
+│       ├── check_submission.py
 │       └── check_word_count.py
 └── ...
 ```
@@ -41,19 +45,24 @@ The root of the repository contains:
 
 ### AP Score Reports Proposal Index
 
-| Proposal | Type | Score | Link |
-|---|---|---:|---|
-| AP Score Reports as Instructional Data | Full proposal / 60-minute format | 33/35 | [Open proposal](projects/ap-score-reports/proposals/ap-score-reports-as-instructional-data) |
-| AP Scores to Instructional Action: A Quick Workflow | Quick workflow / 20-minute format | 28/35 | [Open proposal](projects/ap-score-reports/proposals/ap-score-reports-quick-workflow) |
+| Proposal | Type | Score | Submission checks | Link |
+|---|---|---:|---|---|
+| AP Score Reports as Instructional Data | Session (1 hour) | 28/35 | Fails: type name, abstract length. Warns: takeaways length | [Open proposal](projects/ap-score-reports/proposals/ap-score-reports-as-instructional-data) |
+| AP Scores to Instructional Action: A Quick Workflow | Mini-Session (20 minutes) | 26/35 | Fails: no Learning Goals section. Warns: takeaways length | [Open proposal](projects/ap-score-reports/proposals/ap-score-reports-quick-workflow) |
 
-Update this list whenever a proposal is rescored so the project-level summary always reflects the current score.
+Scores are from the [rubric score report](tools/scoring/Rubric-Score-Report.md). Submission checks come from `tools/validation/check_submission.py`. Update this list whenever a proposal is rescored or rechecked.
 
 ## Shared Resources
 
 - [Conference rubric PDF](conference/conference-proposal.pdf)
+- [Call for Proposals planning sheet](conference/CSTA%202027%20Call%20for%20Proposals%20Planning%20Sheet.pdf)
+- [Presentation outline template](conference/CSTA%202027%20Presentation%20Outline.pdf)
 - [Rubric score report](tools/scoring/Rubric-Score-Report.md)
 - [Scoring instructions](tools/scoring/Scoring-Instructions.md)
-- [Validation script](tools/validation/check_word_count.py)
+- [Submission check script](tools/validation/check_submission.py)
+- [Word-count script](tools/validation/check_word_count.py) (checks words; the form uses characters, so use the submission check for form limits)
+
+New to the repo? Start with [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Notes
 

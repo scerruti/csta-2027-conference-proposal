@@ -31,13 +31,15 @@ Before scoring, the reviewer should have:
 
 ## Pre-Scoring Compliance Check
 
-Before applying the rubric, the reviewer must run the repository word-count compliance check for the proposal file(s) being scored.
+Before applying the rubric, the reviewer must run the submission compliance check for the proposal file(s) being scored. The form's limits are in characters, not words, so use the submission check rather than the word-count check.
 
-Use the project validator:
+Use the project validator (it checks the planning-sheet limits, the Presentation Outline sections, the session type, and identifying links):
 
-- python3 tools/validation/check_word_count.py projects/ap-score-reports/proposals/ap-score-reports-as-instructional-data/AP-Score-Reports-as-Instructional-Data.md projects/ap-score-reports/proposals/ap-score-reports-quick-workflow/AP-Score-Reports-Quick-Workflow.md
+- python3 tools/validation/check_submission.py projects/ap-score-reports/proposals/ap-score-reports-as-instructional-data/AP-Score-Reports-as-Instructional-Data.md projects/ap-score-reports/proposals/ap-score-reports-quick-workflow/AP-Score-Reports-Quick-Workflow.md
 
-If the target project includes additional proposal files, include them in the same command. A proposal that fails the word-count check should be flagged as noncompliant before the rubric score is recorded, and any score report should note that compliance issue separately from rubric quality.
+The Content criterion also asks whether the proposal uses the CSTA 2027 Presentation Outline template. The script cannot check the template PDF, so confirm this by hand.
+
+If the target project includes additional proposal files, include them in the same command. A proposal that fails the submission check should be flagged as noncompliant before the rubric score is recorded, and any score report should note that compliance issue separately from rubric quality.
 
 ## Scoring Method
 

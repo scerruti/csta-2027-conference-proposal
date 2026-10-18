@@ -24,12 +24,12 @@ projects/ap-score-reports/
 
 ## Included Proposal Drafts
 
-| Proposal | Type | Current Score | Link |
-|---|---|---:|---|
-| [AP Score Reports as Instructional Data](proposals/ap-score-reports-as-instructional-data) | Full proposal / 60-minute format | 33/35 | [Open proposal](proposals/ap-score-reports-as-instructional-data) |
-| [AP Scores to Instructional Action: A Quick Workflow](proposals/ap-score-reports-quick-workflow) | Quick workflow / 20-minute format | 28/35 | [Open proposal](proposals/ap-score-reports-quick-workflow) |
+| Proposal | Type | Current Score | Submission checks | Link |
+|---|---|---:|---|---|
+| [AP Score Reports as Instructional Data](proposals/ap-score-reports-as-instructional-data) | Session (1 hour) | 28/35 | Fails: type name, abstract length. Warns: takeaways length | [Open proposal](proposals/ap-score-reports-as-instructional-data) |
+| [AP Scores to Instructional Action: A Quick Workflow](proposals/ap-score-reports-quick-workflow) | Mini-Session (20 minutes) | 26/35 | Fails: no Learning Goals section. Warns: takeaways length | [Open proposal](proposals/ap-score-reports-quick-workflow) |
 
-Update this table whenever a proposal is rescored so the project README reflects the current score and proposal type.
+Scores come from the [rubric score report](../../tools/scoring/Rubric-Score-Report.md). Update this table whenever a proposal is rescored or rechecked, so the project README reflects the current score, proposal type, and submission status.
 
 ## Project Resources
 
