@@ -15,11 +15,11 @@ projects/ap-score-reports/
     ├── ap-score-reports-as-instructional-data/
     │   ├── README.md
     │   ├── AP-Score-Reports-as-Instructional-Data.md
-    │   └── AP-Score-Reports-as-Instructional-Data-Notes.md
+    │   └── Presentation-Outline-DRAFT.pdf
     └── ap-score-reports-quick-workflow/
         ├── README.md
         ├── AP-Score-Reports-Quick-Workflow.md
-        └── AP-Score-Reports-Quick-Workflow-Notes.md
+        └── Presentation-Outline-DRAFT.pdf
 ```
 
 ## Included Proposal Drafts

@@ -86,7 +86,7 @@ Scores follow the [scoring instructions](tools/scoring/Scoring-Instructions.md) 
 - Make one logical change per commit, with a message that says what changed and why.
 - Run `check_submission.py` on any proposal you touched.
 - Open a pull request against `main`. Describe which proposal or tool changed and what the checker reports before and after.
-- Keep collaborator notes (files ending in `-Notes.md`) for brainstorming. They are not submitted with the proposal.
+- Keep working notes in each proposal's README (under Open Questions), not in separate notes files. Only the proposal Markdown and its outline PDF are submitted.
 
 ## Open items
 
