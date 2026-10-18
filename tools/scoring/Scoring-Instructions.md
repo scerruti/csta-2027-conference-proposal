@@ -190,7 +190,7 @@ Procedure:
 3. Record the blind scores in the Rubric Score Report as the scores of record. Record the reviewer's model and date.
 4. Compare the blind scores with the author's own scoring. Where they differ, the blind score stands unless the author points to a passage the reviewer missed. The report notes each disagreement.
 5. Judge named resources by the proposal's description of them. Do not raise a score because of materials that are not in the proposal, or because they will be built later.
-6. Apply the same reviewer to both proposals in a project so that criteria are counted the same way. If a criterion's count differs between proposals, note it in the report.
+6. Score both proposals in a project in one reviewer session, so that criteria are counted the same way. Record the review date in the report. If a criterion's count differs between proposals, note it in the report.
 
 Why: a fresh reader cannot anchor on earlier scores or on unfinished materials. In the first round, the author's scores were higher than the blind scores for Standards and Pedagogy, and the author had counted resources that were not yet written.
 
