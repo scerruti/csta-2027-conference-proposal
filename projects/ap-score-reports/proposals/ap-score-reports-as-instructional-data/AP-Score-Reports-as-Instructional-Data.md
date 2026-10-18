@@ -27,6 +27,8 @@ This session is grounded in four steps of the Data Wise Improvement Process (Har
 - Step 6, Develop Action Plan: participants choose targeted interventions connected to AP Classroom resources.
 - Step 7, Plan to Assess Progress: participants define formative indicators that show whether the plan is working.
 
+Two research-based practices also shape the session: formative assessment, which uses classroom evidence to adjust instruction (Black and Wiliam, 1998), and concept-level diagnosis, since performance on specific concepts varies in how well it predicts programming ability (Cabo, 2015). The Step 7 formative assessment applies the first, and the Step 4 prerequisite checks apply the second.
+
 ## Standards Alignment
 
 - **CSTA 4f, Plan instruction to foster student understanding:** Step 4 (0:11–0:31) and Step 6 (0:31–0:43). Prerequisite checks address misconceptions, and groups choose targeted interventions.
@@ -89,6 +91,11 @@ This session is grounded in four steps of the Data Wise Improvement Process (Har
 ## Participant Outcomes
 
 Participants leave with a group action plan, a formative assessment for one action area, and a template for their own data. Tangible: the Data Deep Dive worksheet, a free privacy-focused browser tool, and a score-band export guide. Intangible: confidence to diagnose gaps with colleagues.
+
+## References
+
+- Black, P., & Wiliam, D. (1998). Inside the black box: Raising standards through classroom assessment. *Phi Delta Kappan*, 80(2), 139–148. https://www.jstor.org/stable/20439383
+- Cabo, C. (2015). Quantifying student progress through Bloom's taxonomy cognitive categories in computer programming courses. Paper presented at the 2015 ASEE Annual Conference & Exposition, Seattle, WA.
 
 ## Related Links
 
