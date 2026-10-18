@@ -93,7 +93,7 @@ Take-home prompts:
 ## References
 
 - Black, P., & Wiliam, D. (1998). Inside the black box: Raising standards through classroom assessment. *Phi Delta Kappan*, 80(2), 139–148. https://www.jstor.org/stable/20439383
-- Cabo, C. (2015). Quantifying student progress through Bloom's taxonomy cognitive categories in computer programming courses. Paper presented at the 2015 ASEE Annual Conference & Exposition, Seattle, WA.
+- Cabo, C. (2015). Quantifying student progress through Bloom's taxonomy cognitive categories in computer programming courses. New York City College of Technology, City University of New York. Paper presented at the 2015 ASEE Annual Conference & Exposition, Seattle, WA. © 2015 American Society for Engineering Education. https://peer.asee.org/24632
 
 ## Related Links
 
