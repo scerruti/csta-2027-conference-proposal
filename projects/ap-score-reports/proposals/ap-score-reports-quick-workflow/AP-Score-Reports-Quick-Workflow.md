@@ -40,7 +40,7 @@ The collaborative step draws on two ideas from the Data Wise Improvement Process
 ### 0:00-0:02 | Are You Data-Driven?
 
 - Show of hands: "Are you data-driven?"
-- Define it: the data identifies where to look, the teacher's experience forms a hypothesis, and new data tests it. By this definition, many teachers are data-aware: they know their results but haven't acted on them.
+- Define it: the data identifies where to look, the teacher's experience forms a hypothesis, and new data tests it. By this definition, knowing your results isn't enough; you have to act on them.
 - Introduce the three stages: Notice, Investigate, Respond.
 
 ### 0:02-0:06 | Notice: Look, Then Ask
