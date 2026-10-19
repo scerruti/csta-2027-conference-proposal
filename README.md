@@ -56,6 +56,7 @@ Scores are from the [rubric score report](tools/scoring/Rubric-Score-Report.md).
 - [Conference rubric PDF](conference/conference-proposal.pdf)
 - [Call for Proposals planning sheet](conference/CSTA%202027%20Call%20for%20Proposals%20Planning%20Sheet.pdf)
 - [Presentation outline template](conference/CSTA%202027%20Presentation%20Outline.pdf)
+- [Action plan](ACTION-PLAN.md): deferred work
 - [Rubric score report](tools/scoring/Rubric-Score-Report.md)
 - [Scoring instructions](tools/scoring/Scoring-Instructions.md)
 - [Submission check script](tools/validation/check_submission.py)
