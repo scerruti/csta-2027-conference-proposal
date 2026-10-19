@@ -10,8 +10,11 @@ The mini-session is the "why" for the same process. Each session stands alone, a
 
 ## Status
 
-- The proposal and outline PDF in this folder are still the Data Wise version and will be rebuilt from the agreed design below.
-- Earlier scores rated the Data Wise version and no longer apply.
+- Rebuilt section by section from the agreed design below, with each section approved. The outline PDF is regenerated from the new text.
+- Title: "Acting on AP CS Score Reports: A Hands-On Data-Driven Cycle."
+- Opening: unlike the mini, it opens with logging in and the hour's promise ("By the end of this session you will have been data-driven with your own results"), so attendees coming from the mini are not repeated to.
+- Device field on the form (keep it soft, so College Board access is not a requirement): "A laptop is helpful. If you have one, bring your College Board educator login; participants without access work with a partner."
+- Not yet scored. Earlier scores rated the Data Wise version and no longer apply.
 
 ## Agreed Design
 
@@ -40,7 +43,7 @@ The mini-session is the "why" for the same process. Each session stands alone, a
 
 **Participants without data:** they shadow their Ask partner through Look, Ask, Slice and download, and Combine, then choose a skill group by interest at the sort.
 
-**Adjust:** cannot happen in the room, because it depends on formative results from students during the year. The planning part (when to give the assessment, before and/or after the change, and what result would mean reteaching) is built into Test. The close presents Adjust as where attendees go from here, and makes the case for ongoing collaboration (see "Sustaining the cycle" in the [process](../../README.md#the-process)). Groups leave having traded contacts, a seed for continuing the work.
+**Adjust:** cannot happen in the room, because it depends on formative results from students during the year. The planning part (when to give the assessment, before and/or after the change, and what result would mean reteaching) is built into Test. The close presents Adjust as where attendees go from here, and makes the case for ongoing collaboration (see "Sustaining the cycle" in the [process](../../README.md#the-process)). Groups are invited, not asked to commit, to trade contacts if they'd like to compare results later.
 
 ## Resources to Build
 
