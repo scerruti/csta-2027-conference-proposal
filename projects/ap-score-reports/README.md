@@ -62,7 +62,7 @@ Both proposals are built from this process. The mini-session is the why, and the
 7. **Test:** build AP Classroom formative assessments by filtering the question bank by learning objective, skill, or content area for the focus area. Give them before and/or after the change to collect additional data.
 8. **Adjust:** reteach or spiral the content as the results indicate, and account for the results in future planning.
 
-**Sustaining the cycle:** the process works best with ongoing collaboration, meaning colleagues who revisit the plan and the formative results through the year. The pedagogy calls for the practice, not a particular organization: a department PLC, a CTE community of practice, a CSTA chapter, or an online AP CS group can all host it. Marsh (2012) reports that single training sessions alone did not lead to data use, while sustained support did better, so the proposals recommend ongoing collaboration as grounded in research, not as established practice. The cycle's dates (results in July, plans before school starts, formative results during the year) give a group natural reasons to meet. The proposals describe this generically, never naming a specific group, to keep presenters anonymous and to avoid sounding promotional. The sessions seed it in the room: partners trade contact information and agree to check in when formative results come back.
+**Sustaining the cycle:** the process works best with ongoing collaboration, meaning colleagues who revisit the plan and the formative results through the year. The pedagogy calls for the practice, not a particular organization: a department PLC, a CTE community of practice, a CSTA chapter, or an online AP CS group can all host it. Marsh (2012) reports that single training sessions alone did not lead to data use, while sustained support did better, so the proposals recommend ongoing collaboration as grounded in research, not as established practice. The cycle's dates (results in July, plans before school starts, formative results during the year) give a group natural reasons to meet. The proposals describe this generically, never naming a specific group, to keep presenters anonymous and to avoid sounding promotional. The sessions seed it in the room: the breakout's skill groups trade contact information and agree to check in when formative results come back; the mini invites partners with similar questions to trade contacts, without asking for a commitment.
 
 **Out of scope:**
 
@@ -123,6 +123,12 @@ Both proposals are built from this process. The mini-session is the why, and the
 **Decided:** the worksheet's "circle exactly 4 cells" rule is dropped. It was a workshop artifact. Favoring earlier units stays.
 
 **Sources:** in `resources/`: the workshop slides, the Data Deep Dive worksheet, College Board's Subject Score Roster and Instructional Planning Report overviews, and a sample CSP Instructional Planning Report. Also the browser tool's documentation.
+
+## Risks
+
+- **Report formats change between years.** The browser tool parses the Instructional Planning Report PDF, so a format change can break it, and handling several years may need several parsers. AP CSA appears to have been redesigned for 2025–26 with 4 units instead of 10 (not yet confirmed against College Board); if so, a pre-2026 CSA report has a different unit structure that the tool may not parse and the worksheet's CSA matrix will not map onto.
+- **Timing:** AP results typically arrive right at conference time (CSTA 2027 is July 8–11, 2027, in Anaheim). Attendees will be working with results that just arrived. Many earlier years are available in the portal, but their formats may differ.
+- **Proposal wording:** do not promise multi-year support. Describe the tool as working with the current report format. Check the tool against the 2027 format after acceptance.
 
 ## Open Questions
 

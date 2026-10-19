@@ -10,8 +10,9 @@ The breakout is the hands-on "how" for the same process. Each session stands alo
 
 ## Status
 
-- The proposal and outline PDF in this folder are still the Data Wise version and will be rebuilt from the agreed design below.
-- Earlier scores rated the Data Wise version and no longer apply.
+- Rebuilt section by section from the agreed design below, with each section approved. The outline PDF is regenerated from the new text.
+- Title: "From Data-Aware to Data-Driven: Acting on AP CS Score Reports." Runner-up: "Putting AP CS Score Reports to Work."
+- Not yet scored. Earlier scores rated the Data Wise version and no longer apply.
 
 ## Agreed Design
 
@@ -32,7 +33,7 @@ The breakout is the hands-on "how" for the same process. Each session stands alo
 | Notice | "Think about last year's results. What question would you want them to answer?" | "Why start with a question instead of opening the detailed report?" | The question decides which slice to look at. |
 | Investigate | "Which slice would answer your question: which score band, which section?" | "The report shows content and skills separately. Why treat the place where they meet as a hypothesis rather than an answer?" | The test cannot show the cause; experience fills it in and later data checks it. |
 | Respond | "What's one thing in your curriculum you'd change, and when in the year would you check on it?" | "Why give a formative assessment instead of waiting for next year's scores?" | Scores arrive too late; the assessment tests the hypothesis while there is time to respond. |
-| Close | "By our definition, were you data-driven? What would it take to be?" | — | Returns to the opening question. Then partners trade contact information and agree to check in when formative results come back. |
+| Close | "By our definition, were you data-driven? What would it take to be?" | — | Returns to the opening question. Then an invitation, not a commitment: if your partner's question was close to yours, trade contact information. Think-Pair-Share partners are whoever sits nearby, so the mini does not ask them to commit to each other. |
 
 **Close, presenter's story (session only, not in the proposal):** the presenter's experience as a guest in a district AP CS PLC, and the wish that every teacher had that kind of community. It illustrates ongoing collaboration as the way to sustain the cycle. Names stay out of the proposal and this repository.
 

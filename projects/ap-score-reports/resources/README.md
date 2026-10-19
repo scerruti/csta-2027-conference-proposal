@@ -21,6 +21,10 @@ These College Board documents are sources for the project, but they are copyrigh
 
 Both overviews carry "© 2025 College Board." The sample report is authored by College Board, and its footer reads "2025 The College Board."
 
+## Data Wise Transcripts (Not in the Repo)
+
+`data-wise-transcripts/` holds three video transcripts from the HarvardX Data Wise course on edX, with Kathryn Parker Boudett: the course objectives, the Prepare phase, and Steps 3 and 4. They are used only to verify the Data Wise ideas the proposals credit (examining practice alongside evidence of student learning, and stating evidence before interpreting it). They are copyrighted course materials, ignored by git, and never cited; the proposals link to the official [Data Wise Improvement Process](https://datawise.gse.harvard.edu/data-wise-improvement-process) page instead. The transcripts use the course's older step names (for example, "Examine Instruction"); the official page now uses the current names (for example, "Examine Own Practice").
+
 ## Sources and Licenses
 
 | File | Source | License or permission |
