@@ -12,7 +12,7 @@ The breakout is the hands-on "how" for the same process. Each session stands alo
 
 - Rebuilt section by section from the agreed design below, with each section approved. The outline PDF is regenerated from the new text.
 - Title: "From Data-Aware to Data-Driven: Acting on AP CS Score Reports." Runner-up: "Putting AP CS Score Reports to Work."
-- Not yet scored. Earlier scores rated the Data Wise version and no longer apply.
+- Round six blind score (commit `bd1c537`): 30/35 (Opus 30, Sonnet A 29, Sonnet B 31). See the [rubric score report](../../../../tools/scoring/Rubric-Score-Report.md).
 
 ## Agreed Design
 

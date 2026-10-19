@@ -26,8 +26,8 @@ projects/ap-score-reports/
 
 | Proposal | Type | Current Score | Submission checks | Link |
 |---|---|---:|---|---|
-| [Acting on AP CS Score Reports: A Hands-On Data-Driven Cycle](proposals/ap-score-reports-as-instructional-data) | Session (1 hour) | Not scored | Passes automated checks | [Open proposal](proposals/ap-score-reports-as-instructional-data) |
-| [From Data-Aware to Data-Driven: Acting on AP CS Score Reports](proposals/ap-score-reports-quick-workflow) | Mini-Session (20 minutes) | Not scored | Passes automated checks | [Open proposal](proposals/ap-score-reports-quick-workflow) |
+| [Acting on AP CS Score Reports: A Hands-On Data-Driven Cycle](proposals/ap-score-reports-as-instructional-data) | Session (1 hour) | 34/35 | Passes automated checks | [Open proposal](proposals/ap-score-reports-as-instructional-data) |
+| [From Data-Aware to Data-Driven: Acting on AP CS Score Reports](proposals/ap-score-reports-quick-workflow) | Mini-Session (20 minutes) | 30/35 | Passes automated checks | [Open proposal](proposals/ap-score-reports-quick-workflow) |
 
 Scores come from the [rubric score report](../../tools/scoring/Rubric-Score-Report.md). Update this table whenever a proposal is rescored or rechecked, so the project README reflects the current score, proposal type, and submission status.
 

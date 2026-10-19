@@ -14,7 +14,7 @@ The mini-session is the "why" for the same process. Each session stands alone, a
 - Title: "Acting on AP CS Score Reports: A Hands-On Data-Driven Cycle."
 - Opening: unlike the mini, it opens with logging in and the hour's promise ("By the end of this session you will have been data-driven with your own results"), so attendees coming from the mini are not repeated to.
 - Device field on the form (keep it soft, so College Board access is not a requirement): "A laptop is helpful. If you have one, bring your College Board educator login; participants without access work with a partner."
-- Not yet scored. Earlier scores rated the Data Wise version and no longer apply.
+- Round six blind score (commit `bd1c537`): 34/35 (Opus 35, Sonnet A 34, Sonnet B 32). See the [rubric score report](../../../../tools/scoring/Rubric-Score-Report.md).
 
 ## Agreed Design
 
